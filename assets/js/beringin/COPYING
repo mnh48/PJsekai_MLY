@@ -1,0 +1,32 @@
+Some of the javascript files here were generated from npm package
+The tool used to generate it is browserify-as-a-service
+The tool can be accessed from https://wzrd.in/
+The tool is released under MIT and source is here:
+https://github.com/browserify/wzrd.in
+
+1. Rebound
+rebound.js is generated from npm package rebound
+https://www.npmjs.com/package/rebound/
+Released under BSD-3-Clause as stated on package page and source's here:
+https://github.com/facebook/rebound-js
+The javascript file is included as it is required by Horizontal
+
+2. Horizontal
+horizontal.js is generated from npm package @oberon-amsterdam/horizontal
+https://www.npmjs.com/package/@oberon-amsterdam/horizontal
+It's released under MIT as stated on the package page and source's here:
+https://github.com/oberonamsterdam/horizontal
+The javascript file is only used for pages written in Beringin
+This is because I need horizontal scrolling for those pages
+as Beringin is written vertically, not horizontally
+
+3. Scroll
+scroll.js is taken from documentation of horizontal.js
+It is the loader of the javascript file horizontal.js
+It should be under the same license as horizontal.js
+
+Please see the license files in the same directory for the license text,
+they were included here if the original file came with the license file.
+On other circumstances where it does not come with the license file,
+a link will be put in this file you're reading that point towards the
+original license text for the JS file.

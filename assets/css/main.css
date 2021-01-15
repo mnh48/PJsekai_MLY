@@ -1,0 +1,351 @@
+/* Base Styling */
+body, html {
+    text-align: justify;
+    margin: 0;
+    padding: 250px 0 500px 0;
+    border: 0;
+    height: 100%;
+    font-family: "Baloo Tammudu 2", "MNH48 Jawi Ceria", "MNH48 Beringin PUA", "Kosugi Maru", "ZCOOL XiaoWei", "Noto Sans TC", "Noto Sans Rejang", "Twemoji", sans-serif;
+    font-size: 18px;
+    background-image: url('/assets/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    vertical-align: baseline;
+    position: relative;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    padding: 0px 5%;
+    line-height: 1.2;
+}
+
+.centertext {
+    text-align: center;
+}
+
+/* For `disabled` class, don't make the link appear obviously*/
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+
+/* Set headers styling */
+h1, h2, h3, h4, h5 {
+    font-family: "Dancing Script", "Amiri", "MNH48 Beringin PUA", "Sawarabi Mincho", "Ma Shan Zheng", "Noto Serif TC", "Noto Sans Rejang", "Twemoji", serif;
+    text-align: center;
+    padding: 20px 0 10px 0;
+}
+
+h1:lang(ms-Arab), h2:lang(ms-Arab), h3:lang(ms-Arab), h4:lang(ms-Arab), h5:lang(ms-Arab) {
+    font-family: "Amiri", "Dancing Script", "Twemoji", serif;
+    direction: rtl;
+    -webkit-font-feature-settings: "ss08" 1; 
+    -moz-font-feature-settings: "ss08" 1; 
+    font-feature-settings: "ss08" 1;
+}
+
+h1:lang(ms-Brgn), h2:lang(ms-Brgn), h3:lang(ms-Brgn), h4:lang(ms-Brgn), h5:lang(ms-Brgn) {
+    font-family: "MNH48 Beringin PUA", "Dancing Script", "Twemoji", serif;
+    direction: rtl;
+    writing-mode: vertical-rl;
+}
+
+h1:lang(ms-Rjng), h2:lang(ms-Rjng), h3:lang(ms-Rjng), h4:lang(ms-Rjng), h5:lang(ms-Rjng) {
+    font-family: "Noto Sans Rejang", "Dancing Script", "Twemoji", serif;
+}
+
+h1:lang(ja), h2:lang(ja), h3:lang(ja), h4:lang(ja), h5:lang(ja){
+    font-family: "Sawarabi Mincho", "Dancing Script", "Twemoji", serif;
+}
+
+h1:lang(zh-Hans), h2:lang(zh-Hans), h3:lang(zh-Hans), h4:lang(zh-Hans), h5:lang(zh-Hans){
+    font-family: "Ma Shan Zheng", "Dancing Script", "Twemoji", serif;
+}
+
+/* Set headers' margin and size */
+h1 {
+    margin: 0px 0px;
+    font-size: 2.5em;
+}
+
+h2{
+    margin: 20px 0 10px 0;
+    font-size: 2.3em;
+}
+
+h3 {
+    margin: 20px 0 10px 0;
+    font-size: 2em;
+}
+
+h4 {
+    margin: 20px 0 10px 0;
+    font-size: 1.6em;
+}
+
+h5 {
+    margin: 20px 0 10px 0;
+    font-size: 1.2em;
+}
+
+
+/* Set main and article base */
+main {
+    position: absolute;
+    display: block;
+    padding: 10px;
+    width: 80%;
+    max-width: 720px;
+    background-color: #b99bcc;
+    text-decoration: none;
+    text-align: justify;
+    box-shadow: 0rem 0.75rem 1.5rem 0.25rem rgba(152,156,184,0.4);
+    border-radius: 20px;
+    transition: opacity 1.5s ease-in-out 0s;
+}
+
+.headimg img {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    vertical-align: top;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+/* Set properties for list items*/
+li {
+    line-height: 1.1;
+    padding-bottom: 2px;
+}
+
+ul, ol {
+    margin-left: 0px;
+    padding-left: 1em;
+}
+
+/* Declare default font for non-Latin */
+html:lang(ms-Arab), body:lang(ms-Arab), main:lang(ms-Arab), article:lang(ms-Arab), p:lang(ms-Arab), span:lang(ms-Arab) {
+    font-family: "MNH48 Jawi Ceria", "Baloo Tammudu 2", "Twemoji", sans-serif;
+    -webkit-font-feature-settings: "cv84" 1; 
+    -moz-font-feature-settings: "cv84" 1; 
+    font-feature-settings: "cv84" 1;
+    font-size: 1.1em;
+    line-height: 1.1;
+    direction: rtl;
+}
+
+html:lang(ms-Brgn), body:lang(ms-Brgn), main:lang(ms-Brgn), article:lang(ms-Brgn), p:lang(ms-Brgn), span:lang(ms-Brgn) {
+    font-family: "MNH48 Beringin PUA", "Baloo Tammudu 2", "Twemoji", sans-serif;
+    writing-mode: vertical-rl;
+}
+
+html:lang(ms-Rjng), body:lang(ms-Rjng), main:lang(ms-Rjng), article:lang(ms-Rjng), p:lang(ms-Rjng), span:lang(ms-Rjng) {
+    font-family: "Noto Sans Rejang", "Baloo Tammudu 2", "Twemoji", sans-serif;
+}
+
+html:lang(ja), body:lang(ja), main:lang(ja), article:lang(ja), p:lang(ja), span:lang(ja) {
+    font-family: "Kosugi Maru", "Baloo Tammudu 2", "Twemoji", sans-serif;
+    font-size: 0.9em;
+}
+
+html:lang(zh-Hans), body:lang(zh-Hans), main:lang(zh-Hans), article:lang(zh-Hans), p:lang(zh-Hans), span:lang(zh-Hans) {
+    font-family: "ZCOOL XiaoWei", "Baloo Tammudu 2", "Twemoji", sans-serif;
+}
+
+html:lang(zh-Hant), body:lang(zh-Hant), main:lang(zh-Hant), article:lang(zh-Hant), p:lang(zh-Hant), span:lang(zh-Hant) {
+    font-family: "Noto Sans TC", "Baloo Tammudu 2", "Twemoji", sans-serif;
+}
+
+/* Handle image styling */
+img.resize {
+    float: left;
+    max-width:50%;
+    max-height:50%;
+}
+
+img[alt$=">"] {
+    float:right;
+    padding: 1em;
+}
+
+img[alt$="<"] {
+    float:left;
+    padding: 1em;
+}
+
+img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    padding: 1em;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+
+/* Format the footer link list */
+footlist {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    list-style: none
+}
+
+footer {
+    padding: 17px;
+    text-align: center;
+    font-size: 90%;
+}
+
+footer ul {
+    list-style: none;
+    display: block;
+}
+
+footer ul li {
+    list-style: none;
+    display: inline;
+    padding: 0 5px 0 10px;
+    /*border-left: 1px solid #f9d0fd;*/
+}
+
+footer ul li:not(:nth-child(1))::before {
+    content: '◆      ';
+    font-size: 75%;
+}
+
+
+/* Styling for `code` elements */
+code {
+    font-family: "Noto Mono", "Noto Sans Mono", "Noto Sans Mono CJK JP", "Noto Sans Mono CJK SC", "Noto Sans Mono CJK TC", "Noto Sans JP Mono", "Noto Sans SC Mono", "Noto Sans TC Mono", "Courier New", "Lucida Console", "Courier", Monaco, "Twemoji", "Noto Sans Rejang", monospace;
+    background-color: #663399;
+    border: #9370db solid 1px;
+    padding: 0px 5px;
+    font-size: 0.85em;
+}
+
+/* Styling for various buttons */
+.backtotop, .backtotop a, .backtotop:visited, .backtotop a:visited {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: 1px white solid;
+    outline: none;
+    background-color: white;
+    color: #605;
+    cursor: pointer;
+    padding: 10px 20px 0px 20px;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+
+.backtotop:hover {
+    background-color: darkgray;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+button, button:visited {
+    border: 1px white solid;
+    outline: none;
+    background-color: white;
+    color: #504;
+    cursor: pointer;
+    padding: 10px 10px 0px 10px;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: "Baloo Tammudu 2", "MNH48 Jawi Ceria", "MNH48 Beringin PUA", "Kosugi Maru", "ZCOOL XiaoWei", "Noto Sans TC", "Noto Sans Rejang" , "Twemoji", sans-serif;
+    line-height: 1em;
+    margin-bottom: 0.25em;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #504;
+    cursor: pointer;
+    text-decoration: none;
+    color: darkgray;
+    text-align: center;
+}
+
+.button a {
+    background-color: #394798;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #CACFDC;
+    color: #CACFDC;
+    vertical-align: middle;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px 20px 10px 20px;
+}
+
+.button {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.button a:hover, .button a:active {
+    background-color: #A271C7;
+    color: #394798;
+}
+
+.btn-group button {
+    background-color: #394798;
+    border: 1px solid #CACFDC;
+    color: #CACFDC;
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-group button:not(:last-child) {
+    border-right: none;
+}
+
+.btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.btn-group button:hover {
+    background-color: #A271C7;
+    color: #394798;
+}
+
+/* Styling for loading screen */
+#loadingscn {
+    border: 12px solid #fff;
+    border-radius: 50%;
+    border-top: 12px solid #403;
+    width: 100px;
+    height: 100px;
+    animation: rotating 1s linear infinite;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+@keyframes rotating {
+    100% {
+        transform: rotate(360deg);
+    }
+}

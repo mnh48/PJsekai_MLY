@@ -1,0 +1,23 @@
+title: Project Sekai Melayu
+description: Project Sekai Melayu, membawakan maklumat terkini mengenai Project SEKAI dalam bahasa Melayu!
+twitter_username: PJsekai_MLY
+github_username: mnh48
+timezone: Asia/Kuala_Lumpur
+
+plugins:
+    - jemoji
+
+markdown: kramdown
+kramdown:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
+
+kramdown:  
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+

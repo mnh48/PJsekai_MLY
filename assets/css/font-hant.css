@@ -1,0 +1,13 @@
+/*
+ * === Fonts for Traditional Chinese (zh-Hant) ===
+ * Website header: Noto Serif TC
+ * Page headings: Noto Serif TC
+ * Main contents: Noto Sans TC
+ * Note: only these two fonts are available for traditional Chinese on Google Font
+ * This file is written by Yaya MNH48 and licensed under MIT
+ *
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700&display=swap');
+ 

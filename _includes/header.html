@@ -1,0 +1,12 @@
+<!--[if lt IE 3]> start of _includes/header.html <![endif]-->
+{% capture pagelang %}{{ page.lang | default: "en"}}{% endcapture -%}
+{% assign hrdt = site.data.html.header[pagelang] -%}
+{% if page.url == "/" %}{% assign pageurl = "index" %}{% else %}{% assign pageurl = page.url | replace: ".html", "" %}{% endif -%}
+<div id="header" class="headimg">
+    <img src="/assets/img/header.png" alt="Hatsune Miku">
+</div>
+<div class="btn-group button">
+    <a id="header-rumi" class="button" style="width:43%;" href="{{ pageurl | replace: "_ms-Arab", "" }}.html">Bahasa Melayu Rumi</a>
+    <a id="header-jawi" class="button" style="width:43%;" href="{{ pageurl | replace: "_ms-Arab", "" }}_ms-Arab.html">بهاس ملايو جاوي</a>
+</div>
+<!--[if lt IE 3]> end of _includes/header.html <![endif]-->

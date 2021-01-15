@@ -1,0 +1,564 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2020-7-11: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20200314 at Sat Sep 19 01:25:24 2020
+ By Nurul Azeera Hidayah @ Muhammad Nur Hidayat Yasuyoshi
+Copyright (c) 2020, Yaya MNH48.
+Released under SIL Open Font License.
+
+Font for Aksara Beringin in Private Use Area (PUA).
+This font variant is meant for people who use PUA to write Beringin.
+It will NOT be usable if you are writing Beringin using Latin codepoints.
+http://beringin.mnh48.moe/mnh48-beringin
+</metadata>
+<defs>
+<font id="MNH48BeringinPUA" horiz-adv-x="800" vert-adv-y="1000" >
+  <font-face 
+    font-family="MNH48 Beringin PUA"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="-50 -50 850 850"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0020-EBFE"
+  />
+    <missing-glyph />
+    <glyph glyph-name="null_character" vert-adv-y="600" 
+d="M510 440c-30 0 -70 30 -70 60s40 70 70 70s60 -40 60 -70s-30 -60 -60 -60z" />
+    <glyph glyph-name="beringin_space" unicode=" " horiz-adv-x="400" vert-adv-y="600" 
+ />
+    <glyph glyph-name="beringin_exclamation_mark" unicode="&#xebe3;" vert-adv-y="600" 
+d="M510 760v-80h-304c31 -63 41 -140 41 -140h113c108 0 140 -220 140 -220v-80h-79h-1c-121 0 -216 149 -247 220h-223v80h210c-13 62 -40 137 -100 140h-60v79zM260 460c38 -39 71 -140 160 -140c-17 96 -50 140 -160 140z" />
+    <glyph glyph-name="beringin_word_dup_mark" unicode="&#xebee;" vert-adv-y="600" 
+d="M230 460v-190h-80s-81 129 -150 190h-50v80h200v190h80v-190h240v-80h-240z" />
+    <glyph glyph-name="beringin_ext_letter_ak" unicode="&#xebfe;" vert-adv-y="600" 
+d="M600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h53s29 220 137 220h460z" />
+    <glyph glyph-name="beringin_open_parenthesis" unicode="&#xebe6;" vert-adv-y="600" 
+d="M40 240v520h310v-80h-230v-140h730v-80h-730v-220h-80z" />
+    <glyph glyph-name="beringin_close_parenthesis" unicode="&#xebe7;" vert-adv-y="600" 
+d="M760 760v-520h-310v80h230v140h-730v80h730v220h80z" />
+    <glyph glyph-name="beringin_comma" unicode="&#xebe0;" vert-adv-y="600" 
+d="M-50 540h410c108 0 140 -220 140 -220v-80h-88c-122 0 -212 150 -242 220h-220v80zM253 462c34 -31 77 -141 157 -142h10c-11 63 -46 137 -110 140z" />
+    <glyph glyph-name="beringin_hyphen" unicode="&#xebed;" vert-adv-y="600" 
+d="M-50 540h900v-80h-900v80z" />
+    <glyph glyph-name="beringin_period" unicode="&#xebe1;" vert-adv-y="600" 
+d="M0 760h110c108 0 140 -220 140 -220h110c108 0 140 -220 140 -220v-80h-87h-1c-143 0 -183 161 -242 220h-220v80h210c-12 62 -40 137 -100 140h-60v80zM256 460c34 -34 76 -139 154 -140h10c-11 63 -46 137 -110 140h-54z" />
+    <glyph glyph-name="beringin_solidus" unicode="&#xebec;" vert-adv-y="600" 
+d="M420 760h80v-220h200v-80h-200v-220h-80v520zM380 240h-80v220h-200v80h200v220h80v-520z" />
+    <glyph glyph-name="beringin_digit_zero" unicode="&#xebd0;" vert-adv-y="600" 
+d="M350 540v220h80v-220h220v-80h-220v-220h-80v220h-200v80h200z" />
+    <glyph glyph-name="beringin_digit_one" unicode="&#xebd1;" vert-adv-y="600" 
+d="M276 460c31 -63 44 -140 44 -140v-80h-80c0 62 -1 216 -90 220v80h500v-80h-374z" />
+    <glyph glyph-name="beringin_digit_two" unicode="&#xebd2;" vert-adv-y="600" 
+d="M380 460v-220h-80s-81 159 -150 220v80h150v220h80v-220h270v-80h-270z" />
+    <glyph glyph-name="beringin_digit_three" unicode="&#xebd3;" vert-adv-y="600" 
+d="M276 540h374v-80h-500v80c83 4 90 146 90 200v20h80v-80h-3s-10 -77 -41 -140z" />
+    <glyph glyph-name="beringin_digit_four" unicode="&#xebd4;" vert-adv-y="600" 
+d="M380 540h270v-80h-270v-220h-80v220h-150v80c69 61 150 220 150 220h80v-220z" />
+    <glyph glyph-name="beringin_digit_five" unicode="&#xebd5;" vert-adv-y="600" 
+d="M650 540v-80h-410c12 -62 40 -137 100 -140c49 -3 71 -3 80 -3v-77h-120c-108 0 -150 220 -150 220v80h500z" />
+    <glyph glyph-name="beringin_digit_six" unicode="&#xebd6;" vert-adv-y="600" 
+d="M650 540v-80h-410c12 -62 40 -137 100 -140c49 -3 71 -3 80 -3v-77h-120c-108 0 -150 220 -150 220v300h90v-220h410z" />
+    <glyph glyph-name="beringin_digit_seven" unicode="&#xebd7;" vert-adv-y="600" 
+d="M650 460h-500v80s42 220 150 220c75 0 120 -1 120 -1v-79h-80c-60 -3 -88 -78 -100 -140h410v-80z" />
+    <glyph glyph-name="beringin_digit_eight" unicode="&#xebd8;" vert-adv-y="600" 
+d="M650 460h-410v-220h-90v300s42 220 150 220h120l1 -80h-81c-60 -3 -88 -78 -100 -140h410v-80z" />
+    <glyph glyph-name="beringin_digit_nine" unicode="&#xebd9;" vert-adv-y="600" 
+d="M490 540c-23 69 -64 140 -130 140s-117 -71 -130 -140h260zM360 240c-136 0 -210 125 -210 261s74 259 210 259c123 0 190 -101 210 -220h80v-80h-80c-20 -119 -87 -220 -210 -220zM230 460c13 -69 64 -140 130 -140s107 71 130 140h-260z" />
+    <glyph glyph-name="beringin_colon" unicode="&#xebe5;" vert-adv-y="600" 
+d="M500 320v-80c-266 0 -150 220 -259 220h-1h-290v80h290c110 0 -2 220 258 220h2v-80c-172 0 -59 -138 -180 -180c121 -39 8 -180 180 -180z" />
+    <glyph glyph-name="beringin_semicolon" unicode="&#xebe4;" vert-adv-y="600" 
+d="M0 360h170v-80h-170v80zM-50 540h410c108 0 140 -220 140 -220v-80h-87h-1c-122 0 -212 150 -242 220h-220v80zM250 461c34 -31 80 -140 160 -141h10c-11 63 -46 137 -110 140z" />
+    <glyph glyph-name="beringin_open_double_quote" unicode="&#xebea;" vert-adv-y="600" 
+d="M40 240v520h310v-70h-230v-40h150v-60h-150v-50h730v-80h-730v-220h-80z" />
+    <glyph glyph-name="beringin_close_dble_quote" unicode="&#xebeb;" vert-adv-y="600" 
+d="M760 760v-520h-310v70h230v40h-150v60h150v50h-730v80h730v220h80z" />
+    <glyph glyph-name="beringin_question_mark" unicode="&#xebe2;" vert-adv-y="600" 
+d="M544 576l-57 -57l-244 185l56 56zM0 760h110c108 0 131 -220 131 -220h119c108 0 140 -220 140 -220v-80h-87h-1c-120 0 -211 149 -242 220h-220v80h210c-12 62 -40 137 -100 140h-60v80zM256 460c34 -34 76 -139 154 -140h10c-11 63 -46 137 -110 140h-54z" />
+    <glyph glyph-name="beringin_affix_an" unicode="&#xebc8;" vert-adv-y="600" 
+d="M515 325c78 9 165 98 165 175c0 79 -55 180 -170 180c-95 0 -170 -141 -170 -220h-390v80h313c20 119 97 220 247 220c167 0 250 -124 250 -260c0 -134 -111 -257 -245 -260v85z" />
+    <glyph glyph-name="beringin_affix_ber" unicode="&#xebc4;" vert-adv-y="600" 
+d="M290 320c79 0 170 101 170 180s-91 180 -170 180c-35 0 -72 -20 -103 -49l-64 59c45 43 104 70 167 70c123 0 227 -101 247 -220h313v-80h-313c-20 -119 -124 -220 -247 -220c-63 0 -122 27 -167 70l64 59c31 -29 68 -49 103 -49z" />
+    <glyph glyph-name="beringin_ext_letter_kya" unicode="&#xebfc;" vert-adv-y="600" 
+d="M660 760h80v-220h110v-80h-110v-220h-80v220h-80c-30 -119 -87 -220 -267 -220h-3h-110v80s32 220 140 220h160v140h-310c-102 -5 -110 -220 -110 -220h-130v80h50s32 220 140 220h440v-220h80v220zM499 462l-109 -2c-64 -3 -99 -77 -110 -140h30c130 1 155 61 189 142z
+" />
+    <glyph glyph-name="beringin_affix_di" unicode="&#xebc1;" vert-adv-y="600" 
+d="M290 440c-30 0 -70 30 -70 60s40 70 70 70s60 -40 60 -70s-30 -60 -60 -60zM290 320c79 0 170 101 170 180s-91 180 -170 180s-170 -101 -170 -180s91 -180 170 -180zM290 240c-136 0 -250 124 -250 260s114 260 250 260c123 0 229 -101 249 -220h311v-80h-311
+c-20 -119 -126 -220 -249 -220z" />
+    <glyph glyph-name="beringin_vowel_e" unicode="&#xebbc;" vert-adv-y="600" 
+d="M660 760h80v-220h110v-80l-110 1v-221h-80v520zM580 757v-367c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -174 136 -213c63 12 151 38 154 103v327h80z" />
+    <glyph glyph-name="beringin_ext_letter_gya" unicode="&#xebfd;" vert-adv-y="600" 
+d="M660 240v220h-80v-220h-440c-108 0 -140 220 -140 220h-50v80h130s8 -215 110 -220h310v140h-160c-108 0 -140 220 -140 220v80h110h3c180 0 237 -101 267 -220h80v220h80v-220h110v-80h-110v-220h-80zM500 539c-34 81 -60 140 -190 141h-30c11 -63 46 -137 110 -140z
+" />
+    <glyph glyph-name="beringin_letter_eng" unicode="&#xebab;" vert-adv-y="600" 
+d="M480 760c70 -17 150 -109 150 -109v-11c0 -39 -20 -84 -30 -100h250v-80h-550v80h161c32 4 69 27 69 57c0 24 -23 53 -90 83h-220c-102 -5 -140 -220 -140 -220h-130v80h53s49 220 157 220h320z" />
+    <glyph glyph-name="beringin_affix_kah" unicode="&#xebca;" vert-adv-y="600" 
+d="M569 330c78 9 111 93 111 170c0 79 -91 180 -170 180s-160 -141 -160 -220h-87h-313v80h313c20 119 124 220 247 220c136 0 250 -124 250 -260c0 -134 -91 -257 -225 -260h-65v310h80v-220h19z" />
+    <glyph glyph-name="beringin_ext_letter_sya" unicode="&#xebf0;" vert-adv-y="600" 
+d="M130 240c-59 17 -119 99 -120 130v10c0 39 11 63 20 80h-80v80h390v-80h-160c-32 -4 -70 -26 -70 -57c0 -24 23 -53 90 -83h200c74 4 92 118 100 180v260h80v-220h80v220h80v-220h110v-80h-110v-220h-80v220h-80s-22 -220 -130 -220h-320zM465 576l-57 -57l-244 185
+l56 56z" />
+    <glyph glyph-name="beringin_ext_letter_jya" unicode="&#xebfb;" vert-adv-y="600" 
+d="M130 760h320c108 0 130 -220 130 -220h80v220h80v-220h110v-80h-110v-220h-80v220h-80v-220h-80v260c-8 62 -26 176 -100 180h-200c-67 -30 -90 -59 -90 -83c0 -30 38 -53 70 -57h160v-80h-390v80h80c-9 17 -20 41 -20 80v10c1 31 61 113 120 130zM465 424l-245 -184
+l-56 56l244 185z" />
+    <glyph glyph-name="beringin_affix_ke" unicode="&#xebc7;" vert-adv-y="600" 
+d="M850 540v-80h-610v80h610zM440 591c-33 50 -100 89 -150 89c-79 0 -170 -101 -170 -180s91 -180 170 -180c50 0 117 30 150 80l70 -30c-42 -84 -124 -130 -220 -130c-136 0 -250 124 -250 260s114 260 250 260c90 0 176 -42 220 -119z" />
+    <glyph glyph-name="beringin_affix_lah" unicode="&#xebcb;" vert-adv-y="600" 
+d="M540 540v-80h-590v80h311c20 119 126 220 249 220c136 0 250 -124 250 -260c0 -134 -43 -257 -310 -260v85c211 9 230 98 230 175c0 79 -91 180 -170 180c-57 0 -120 -71 -150 -140h180z" />
+    <glyph glyph-name="beringin_affix_men" unicode="&#xebc0;" vert-adv-y="600" 
+d="M290 320c79 0 170 101 170 180s-91 180 -170 180s-170 -101 -170 -180s91 -180 170 -180zM290 240c-136 0 -250 124 -250 260s114 260 250 260c123 0 229 -101 249 -220h311v-80h-311c-20 -119 -126 -220 -249 -220z" />
+    <glyph glyph-name="beringin_affix_kan" unicode="&#xebc9;" vert-adv-y="600" 
+d="M510 440c-30 0 -70 30 -70 60s40 70 70 70s60 -40 60 -70s-30 -60 -60 -60zM515 325c78 9 165 98 165 175c0 79 -91 180 -170 180s-143 -72 -160 -220h-87h-313v80h313c20 119 124 220 247 220c136 0 250 -124 250 -260c0 -134 -111 -257 -245 -260v85z" />
+    <glyph glyph-name="beringin_ext_letter_kha" unicode="&#xebf1;" vert-adv-y="600" 
+d="M850 540v-80h-251c-30 -119 -86 -220 -266 -220h-3h-250v80h143s29 220 137 220h490zM520 460h-110c-64 -3 -99 -77 -110 -140h30c130 1 156 59 190 140zM600 680h-410c-102 -5 -110 -220 -110 -220h-130v80h50s32 220 140 220h460v-80z" />
+    <glyph glyph-name="beringin_affix_pen" unicode="&#xebc2;" vert-adv-y="600" 
+d="M290 240c-136 0 -250 124 -250 260s114 260 250 260c123 0 221 -101 241 -220h319v-80h-319c-20 -119 -118 -220 -241 -220zM450 540c-23 69 -94 140 -160 140c-79 0 -170 -101 -170 -180s91 -180 170 -180c66 0 137 71 160 140h-210v80h210z" />
+    <glyph glyph-name="beringin_ext_letter_gha" unicode="&#xebf2;" vert-adv-y="600" 
+d="M850 460h-490c-108 0 -137 220 -137 220h-143v80h248h3c180 0 239 -101 269 -220h250v-80zM520 540c-34 81 -60 139 -190 140h-30c11 -63 46 -137 110 -140h110zM600 320v-80h-460c-108 0 -140 220 -140 220h-50v80h130s8 -215 110 -220h410z" />
+    <glyph glyph-name="beringin_affix_per" unicode="&#xebc6;" vert-adv-y="600" 
+d="M450 540c-23 69 -94 140 -160 140c-35 0 -72 -20 -103 -49l-64 59c45 43 104 70 167 70c123 0 221 -101 241 -220h319v-80h-319c-20 -119 -118 -220 -241 -220c-63 0 -122 27 -167 70l64 59c31 -29 68 -49 103 -49c66 0 137 71 160 140h-200v80h200z" />
+    <glyph glyph-name="beringin_affix_se" unicode="&#xebc3;" vert-adv-y="600" 
+d="M600 760h80v-220h170v-80l-170 1v-221h-80v520zM290 320c79 0 170 101 170 180s-91 180 -170 180s-170 -101 -170 -180s91 -180 170 -180zM290 240c-136 0 -250 124 -250 260s114 260 250 260c123 0 227 -101 247 -220h3v-80h-3c-20 -119 -124 -220 -247 -220z" />
+    <glyph glyph-name="beringin_affix_ter" unicode="&#xebc5;" vert-adv-y="600" 
+d="M290 440c-30 0 -70 30 -70 60s40 70 70 70s60 -40 60 -70s-30 -60 -60 -60zM290 320c79 0 170 101 170 180s-91 180 -170 180c-35 0 -72 -20 -103 -49l-64 59c45 43 104 70 167 70c123 0 229 -101 249 -220h311v-80h-311c-20 -119 -126 -220 -249 -220
+c-63 0 -122 27 -167 70l64 59c31 -29 68 -49 103 -49z" />
+    <glyph glyph-name="beringin_ext_letter_tha" unicode="&#xebf3;" vert-adv-y="600" 
+d="M600 240h-450c-108 0 -150 220 -150 220h-50v80h50s42 220 150 220h300c108 0 139 -220 139 -220h261v-80h-340s-8 215 -110 220h-210c-74 -4 -102 -118 -110 -180c8 -62 36 -176 110 -180h410v-80z" />
+    <glyph glyph-name="beringin_ext_letter_dha" unicode="&#xebf4;" vert-adv-y="600" 
+d="M600 760v-80h-410c-74 -4 -98 -118 -106 -180c8 -62 32 -176 106 -180h210c102 5 110 220 110 220h340v-80h-261s-31 -220 -139 -220h-300c-108 0 -150 220 -150 220h-50v80h50s42 220 150 220h450z" />
+    <glyph glyph-name="beringin_ext_letter_swa" unicode="&#xebf5;" vert-adv-y="600" 
+d="M130 240c-59 17 -119 99 -120 130v10c0 39 21 63 30 80h-90v80h390v-80h-160c-32 -4 -70 -27 -70 -57c0 -24 23 -53 90 -83h200c74 4 92 118 100 180v162l-120 -92l-70 50l190 147l1 -7h79v-220h80v220h80v-220h110v-80h-110v-220h-80v220h-70s-32 -220 -140 -220h-320z
+" />
+    <glyph glyph-name="beringin_affix_nya" unicode="&#xebcc;" vert-adv-y="600" 
+d="M540 450l-221 -210l-79 50l220 210zM515 325c78 9 165 98 165 175c0 79 -91 180 -170 180s-160 -141 -160 -220h-87h-313v80h311c20 119 126 220 249 220c136 0 250 -124 250 -260c0 -134 -111 -257 -245 -260v85z" />
+    <glyph glyph-name="beringin_letter_nye" unicode="&#xebaa;" vert-adv-y="600" 
+d="M480 240h-320c-108 0 -160 220 -160 220h-50v80h130s38 -215 140 -220h220c67 30 90 59 90 83c0 31 -38 53 -70 57h-160v80h550v-80h-240c9 -17 20 -41 20 -80v-10c0 0 -80 -113 -150 -130z" />
+    <glyph glyph-name="beringin_ext_letter_dwa" unicode="&#xebf6;" vert-adv-y="600" 
+d="M130 760h320c108 0 140 -220 140 -220h70v220h80v-220h110v-80h-110v-220h-80v220h-80v-220h-79l-1 -7l-190 147l70 50l120 -92v162c-8 62 -26 176 -100 180h-200c-67 -30 -90 -59 -90 -83c0 -30 38 -53 70 -57h160v-80h-390v80h90c-9 17 -30 41 -30 80v10
+c1 31 61 113 120 130z" />
+    <glyph glyph-name="beringin_open_single_quote" unicode="&#xebe8;" vert-adv-y="600" 
+d="M40 760h80v-220h730v-80h-730v-140h230v-80h-310v520z" />
+    <glyph glyph-name="beringin_ext_letter_tra" unicode="&#xebf7;" vert-adv-y="600" 
+d="M850 540v-80h-550v80h550zM190 680c-80 -4 -96 -127 -110 -184c10 -64 41 -172 110 -176h410v-80h-450c-108 0 -150 220 -150 220h-50v80h50s42 220 150 220h650v-80h-610z" />
+    <glyph glyph-name="beringin_close_sgle_quote" unicode="&#xebe9;" vert-adv-y="600" 
+d="M760 240h-80v220h-730v80h730v140h-230v80h310v-520z" />
+    <glyph glyph-name="beringin_vowel_a" unicode="&#xebb7;" vert-adv-y="600" 
+d="M580 540h270v-80h-270v-70c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -175 136 -213c64 11 151 38 154 103v327h80v-217z" />
+    <glyph glyph-name="beringin_letter_beh" unicode="&#xeba0;" vert-adv-y="600" 
+d="M0 240v80h400c102 5 110 220 110 220h340v-80h-263s-29 -220 -137 -220h-450zM-50 460v80h390v-80h-390z" />
+    <glyph glyph-name="beringin_letter_cheh" unicode="&#xeba4;" vert-adv-y="600" 
+d="M200 240v80h410c102 5 110 220 110 220h130v-80h-51s-31 -220 -139 -220h-460zM-50 460v80h250c30 119 87 220 267 220h3h110v-80s-32 -220 -140 -220h-490zM280 540h110c64 3 99 77 110 140h-30c-130 -1 -156 -59 -190 -140z" />
+    <glyph glyph-name="beringin_letter_deh" unicode="&#xeba2;" vert-adv-y="600" 
+d="M600 240h-450c-108 0 -149 220 -149 220h-51v80h130s8 -215 110 -220h410v-80zM850 460h-550v80h550v-80z" />
+    <glyph glyph-name="beringin_vowel_eh" unicode="&#xebbb;" vert-adv-y="600" 
+d="M580 540h270v-80h-270v-70c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h550v220h80v-220zM300 460c25 -51 43 -112 46 -133c64 11 151 38 154 103l1 30h-201z" />
+    <glyph glyph-name="beringin_letter_ehf" unicode="&#xebb1;" vert-adv-y="600" 
+d="M390 540v-80h-190v80h190zM600 240h-450c-108 0 -150 220 -150 220h-50v80h130s8 -215 110 -220h410v-80zM0 760h450c108 0 139 -220 139 -220h261v-80h-340s-8 215 -110 220h-400v80z" />
+    <glyph glyph-name="beringin_letter_geh" unicode="&#xeba6;" vert-adv-y="600" 
+d="M600 240h-460c-108 0 -140 220 -140 220h-50v80h130s8 -215 110 -220h410v-80zM850 460h-490c-108 0 -140 220 -140 220v80h110h3c180 0 237 -102 267 -221c112 0 250 1 250 1v-80zM520 540c-34 81 -60 139 -190 140h-30c11 -63 46 -137 110 -140h110z" />
+    <glyph glyph-name="beringin_letter_ha" unicode="&#xebb0;" vert-adv-y="600" 
+d="M600 240h-450c-108 0 -150 220 -150 220h-50v80h130s8 -215 110 -220h410v-80zM0 760h450c108 0 139 -220 139 -220h261v-80h-340s-8 215 -110 220h-400v80z" />
+    <glyph glyph-name="beringin_vowel_i" unicode="&#xebb8;" vert-adv-y="600" 
+d="M464 576l-57 -57l-244 185l56 56zM580 540h270v-80h-270v-70c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -175 136 -213c64 11 151 38 154 103v327h80v-217z" />
+    <glyph glyph-name="beringin_letter_jeh" unicode="&#xeba5;" vert-adv-y="600" 
+d="M200 760h460c108 0 139 -220 139 -220h51v-80h-130s-8 215 -110 220h-410v80zM-50 540h490c108 0 137 -220 137 -220h3v-80h-110h-3c-180 0 -237 101 -267 220h-250v80zM280 460c34 -81 60 -139 190 -140h30c-11 63 -46 137 -110 140h-110z" />
+    <glyph glyph-name="beringin_letter_ka" unicode="&#xeba7;" vert-adv-y="600" 
+d="M600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h50s32 220 140 220h460zM850 540v-80h-250c-30 -119 -81 -220 -261 -220h-9h-110v80s32 220 140 220h490zM520 460h-110c-64 -3 -99 -77 -110 -140h30c130 1 156 59 190 140z" />
+    <glyph glyph-name="beringin_letter_ehl" unicode="&#xebae;" vert-adv-y="600" 
+d="M600 760v-80h-410c-69 -4 -94 -102 -104 -166c14 -57 54 -190 134 -194h220c67 30 90 59 90 83c0 30 -38 53 -70 57h-160v80h550v-80h-240c9 -17 20 -41 20 -80v-10c0 0 -80 -113 -150 -130h-320c-108 0 -160 220 -160 220h-50v80h50s42 220 150 220h450z" />
+    <glyph glyph-name="beringin_letter_ehm" unicode="&#xeba8;" vert-adv-y="600" 
+d="M130 240c-59 17 -119 99 -120 130v10c0 39 11 63 20 80h-80v80h390v-80h-161c-32 -4 -69 -27 -69 -57c0 -24 23 -53 90 -83h200c102 5 110 220 110 220h340v-80h-260s-32 -220 -140 -220h-320z" />
+    <glyph glyph-name="beringin_letter_ehn" unicode="&#xeba9;" vert-adv-y="600" 
+d="M130 760h320c108 0 139 -220 139 -220h261v-80h-340s-8 215 -110 220h-200c-67 -30 -90 -59 -90 -83c0 -30 38 -53 70 -57h160v-80h-390v80h90c-9 17 -30 41 -30 80v10c1 31 61 113 120 130z" />
+    <glyph glyph-name="beringin_vowel_o" unicode="&#xebba;" vert-adv-y="600" 
+d="M580 540h270v-80h-270v-70c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -175 136 -213c64 11 151 38 154 103v30c-185 0 -192 220 -192 220h2v80h270v-220zM500 541l2 139h-112c0 -57 33 -138 110 -139z" />
+    <glyph glyph-name="beringin_letter_peh" unicode="&#xeba1;" vert-adv-y="600" 
+d="M0 760h450c108 0 139 -220 139 -220h261v-80h-340s-8 215 -110 220h-400v80zM-50 540h390v-80h-390v80z" />
+    <glyph glyph-name="beringin_letter_ki" unicode="&#xebb5;" vert-adv-y="600" 
+d="M520 460h-110c-64 -3 -99 -77 -110 -140h30c130 1 156 59 190 140zM600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h50s32 220 140 220h460zM740 540h110v-80l-110 1v-221h-80v220h-60c-30 -119 -87 -220 -267 -220h-3h-110v80s32 220 140 220h300v220h80v-220z
+" />
+    <glyph glyph-name="beringin_letter_ehr" unicode="&#xebaf;" vert-adv-y="600" 
+d="M600 240h-450c-108 0 -150 220 -150 220h-50v80h50s52 220 160 220h320c70 -17 150 -130 150 -130v-10c0 -39 -11 -63 -20 -80h240v-80h-550v80h160c32 4 70 27 70 57c0 24 -23 53 -90 83h-220c-80 -4 -120 -137 -134 -194c10 -64 35 -162 104 -166h410v-80z" />
+    <glyph glyph-name="beringin_letter_ehs" unicode="&#xebac;" vert-adv-y="600" 
+d="M130 240c-59 17 -119 99 -120 130v10c0 39 21 63 30 80h-90v80h390v-80h-160c-32 -4 -70 -27 -70 -57c0 -24 23 -53 90 -83h200c74 4 98 118 106 180c-8 62 -32 176 -106 180h-400v80h450c108 0 139 -220 139 -220h261v-80h-260s-32 -220 -140 -220h-320z" />
+    <glyph glyph-name="beringin_letter_teh" unicode="&#xeba3;" vert-adv-y="600" 
+d="M600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h51s41 220 149 220h450zM850 540v-80h-550v80h550z" />
+    <glyph glyph-name="beringin_vowel_u" unicode="&#xebb9;" vert-adv-y="600" 
+d="M580 460v-70c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -175 136 -213c64 11 151 38 154 103v231l-130 -101l-70 50l190 147h90v-217h270v-80h-270z" />
+    <glyph glyph-name="beringin_letter_fi" unicode="&#xebb4;" vert-adv-y="600" 
+d="M390 460h-190v80h190v-80zM600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h50s42 220 150 220h450zM0 240v80h400c102 5 110 220 110 220h340v-80h-261s-31 -220 -139 -220h-450z" />
+    <glyph glyph-name="beringin_letter_weh" unicode="&#xebb3;" vert-adv-y="600" 
+d="M660 760h80v-220h110v-80l-110 1v-221h-80v520zM580 757v-367c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -175 136 -213c64 11 151 38 154 103v230l-130 -100l-70 50l190 147h90z" />
+    <glyph glyph-name="beringin_letter_ehks" unicode="&#xebb6;" vert-adv-y="600" 
+d="M130 760h320c108 0 140 -220 140 -220h70v220h80v-220h110v-80h-110v-220h-80v220h-70s-32 -220 -140 -220h-450v80h400c74 4 98 118 106 180c-8 62 -32 176 -106 180h-200c-67 -30 -90 -59 -90 -83c0 -30 37 -53 69 -57h161v-80h-390v80h90c-9 17 -30 41 -30 80v10
+c1 31 61 113 120 130z" />
+    <glyph glyph-name="beringin_letter_yeh" unicode="&#xebb2;" vert-adv-y="600" 
+d="M464 576l-57 -57l-244 185l56 56zM660 760h80v-220h110v-80l-110 1v-221h-80v520zM580 760v-370c0 -108 -220 -150 -220 -150h-90s-8 215 -110 220h-210v80h260c96 0 130 -174 136 -213c63 12 151 38 154 103v330h80z" />
+    <glyph glyph-name="beringin_letter_zeht" unicode="&#xebad;" vert-adv-y="600" 
+d="M130 760h320c108 0 139 -220 139 -220h261v-80h-261s-31 -220 -139 -220h-460v80h410c74 4 98 118 106 180c-8 62 -32 176 -106 180h-200c-67 -30 -90 -59 -90 -83c0 -30 38 -53 70 -57h160v-80h-390v80h90c-9 17 -30 41 -30 80v10c1 31 61 113 120 130z" />
+    <glyph glyph-name="beringin_ext_letter_dza" unicode="&#xebfa;" vert-adv-y="600" 
+d="M580 460v-220h-80l-190 140l70 50l120 -92v162c-8 62 -26 176 -100 180h-200c-67 -30 -90 -59 -90 -83c0 -30 37 -53 69 -57h161v-80h-390v80h90c-9 17 -30 41 -30 80v10c1 31 61 113 120 130h320c108 0 130 -220 130 -220h270v-80h-270z" />
+    <glyph glyph-name="beringin_ext_letter_tsa" unicode="&#xebf9;" vert-adv-y="600" 
+d="M580 540h270v-80h-270s-22 -220 -130 -220h-320c-59 17 -119 99 -120 130v10c0 39 21 63 30 80h-90v80h390v-80h-161c-32 -4 -69 -27 -69 -57c0 -24 23 -53 90 -83h200c74 4 92 118 100 180v162l-120 -92l-70 50l190 140h80v-220z" />
+    <glyph glyph-name="beringin_ext_letter_dra" unicode="&#xebf8;" vert-adv-y="600" 
+d="M300 460v80h550v-80h-550zM650 320h150v-80h-650c-108 0 -150 220 -150 220h-50v80h50s42 220 150 220h450v-80h-410c-69 -4 -100 -112 -110 -176c14 -57 30 -180 110 -184h460z" />
+    <glyph glyph-name="null_character.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M240 290c0 30 30 70 60 70s70 -40 70 -70s-40 -60 -70 -60s-60 30 -60 60z" />
+    <glyph glyph-name="beringin_space.vert" horiz-adv-x="600" vert-adv-y="400" orientation="v" 
+ />
+    <glyph glyph-name="beringin_exclamation_mark.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 290h-80v304c-63 -31 -140 -41 -140 -41v-113c0 -108 -220 -140 -220 -140h-80v79v1c0 121 149 216 220 247v223h80v-210c62 13 137 40 140 100v60h79zM260 540c-39 -38 -140 -71 -140 -160c96 17 140 50 140 160z" />
+    <glyph glyph-name="beringin_word_dup_mark.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 570h-190v80s129 81 190 150v50h80v-200h190v-80h-190v-240h-80v240z" />
+    <glyph glyph-name="beringin_ext_letter_ak.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200h-80v410c-5 102 -220 110 -220 110v130h80v-53s220 -29 220 -137v-460z" />
+    <glyph glyph-name="beringin_open_parenthesis.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 760h520v-310h-80v230h-140v-730h-80v730h-220v80z" />
+    <glyph glyph-name="beringin_close_parenthesis.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 40h-520v310h80v-230h140v730h80v-730h220v-80z" />
+    <glyph glyph-name="beringin_comma.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 850v-410c0 -108 -220 -140 -220 -140h-80v88c0 122 150 212 220 242v220h80zM262 547c-31 -34 -141 -77 -142 -157v-10c63 11 137 46 140 110z" />
+    <glyph glyph-name="beringin_hyphen.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 850v-900h-80v900h80z" />
+    <glyph glyph-name="beringin_period.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 800v-110c0 -108 -220 -140 -220 -140v-110c0 -108 -220 -140 -220 -140h-80v87v1c0 143 161 183 220 242v220h80v-210c62 12 137 40 140 100v60h80zM260 544c-34 -34 -139 -76 -140 -154v-10c63 11 137 46 140 110v54z" />
+    <glyph glyph-name="beringin_solidus.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 380v-80h-220v-200h-80v200h-220v80h520zM40 420v80h220v200h80v-200h220v-80h-520z" />
+    <glyph glyph-name="beringin_digit_zero.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 450h220v-80h-220v-220h-80v220h-220v80h220v200h80v-200z" />
+    <glyph glyph-name="beringin_digit_one.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 524c-63 -31 -140 -44 -140 -44h-80v80c62 0 216 1 220 90h80v-500h-80v374z" />
+    <glyph glyph-name="beringin_digit_two.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 420h-220v80s159 81 220 150h80v-150h220v-80h-220v-270h-80v270z" />
+    <glyph glyph-name="beringin_digit_three.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 524v-374h-80v500h80c4 -83 146 -90 200 -90h20v-80h-80v3s-77 10 -140 41z" />
+    <glyph glyph-name="beringin_digit_four.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 420v-270h-80v270h-220v80h220v150h80c61 -69 220 -150 220 -150v-80h-220z" />
+    <glyph glyph-name="beringin_digit_five.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 150h-80v410c-62 -12 -137 -40 -140 -100c-3 -49 -3 -71 -3 -80h-77v120c0 108 220 150 220 150h80v-500z" />
+    <glyph glyph-name="beringin_digit_six.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 150h-80v410c-62 -12 -137 -40 -140 -100c-3 -49 -3 -71 -3 -80h-77v120c0 108 220 150 220 150h300v-90h-220v-410z" />
+    <glyph glyph-name="beringin_digit_seven.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 150v500h80s220 -42 220 -150c0 -75 -1 -120 -1 -120h-79v80c-3 60 -78 88 -140 100v-410h-80z" />
+    <glyph glyph-name="beringin_digit_eight.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 150v410h-220v90h300s220 -42 220 -150v-120l-80 -1v81c-3 60 -78 88 -140 100v-410h-80z" />
+    <glyph glyph-name="beringin_digit_nine.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 310c69 23 140 64 140 130s-71 117 -140 130v-260zM40 440c0 136 125 210 261 210s259 -74 259 -210c0 -123 -101 -190 -220 -210v-80h-80v80c-119 20 -220 87 -220 210zM260 570c-69 -13 -140 -64 -140 -130s71 -107 140 -130v260z" />
+    <glyph glyph-name="beringin_colon.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M120 300h-80c0 266 220 150 220 259v1v290h80v-290c0 -110 220 2 220 -258v-2h-80c0 172 -138 59 -180 180c-39 -121 -180 -8 -180 -180z" />
+    <glyph glyph-name="beringin_semicolon.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M160 800v-170h-80v170h80zM340 850v-410c0 -108 -220 -140 -220 -140h-80v87v1c0 122 150 212 220 242v220h80zM261 550c-31 -34 -140 -80 -141 -160v-10c63 11 137 46 140 110z" />
+    <glyph glyph-name="beringin_open_double_quote.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 760h520v-310h-70v230h-40v-150h-60v150h-50v-730h-80v730h-220v80z" />
+    <glyph glyph-name="beringin_close_dble_quote.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 40h-520v310h70v-230h40v150h60v-150h50v730h80v-730h220v-80z" />
+    <glyph glyph-name="beringin_question_mark.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M376 256l-57 57l185 244l56 -56zM560 800v-110c0 -108 -220 -131 -220 -131v-119c0 -108 -220 -140 -220 -140h-80v87v1c0 120 149 211 220 242v220h80v-210c62 12 137 40 140 100v60h80zM260 544c-34 -34 -139 -76 -140 -154v-10c63 11 137 46 140 110v54z" />
+    <glyph glyph-name="beringin_affix_an.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M125 285c9 -78 98 -165 175 -165c79 0 180 55 180 170c0 95 -141 170 -220 170v390h80v-313c119 -20 220 -97 220 -247c0 -167 -124 -250 -260 -250c-134 0 -257 111 -260 245h85z" />
+    <glyph glyph-name="beringin_affix_ber.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M120 510c0 -79 101 -170 180 -170s180 91 180 170c0 35 -20 72 -49 103l59 64c43 -45 70 -104 70 -167c0 -123 -101 -227 -220 -247v-313h-80v313c-119 20 -220 124 -220 247c0 63 27 122 70 167l59 -64c-29 -31 -49 -68 -49 -103z" />
+    <glyph glyph-name="beringin_ext_letter_kya.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 140v-80h-220v-110h-80v110h-220v80h220v80c-119 30 -220 87 -220 267v3v110h80s220 -32 220 -140v-160h140v310c-5 102 -220 110 -220 110v130h80v-50s220 -32 220 -140v-440h-220v-80h220zM262 301l-2 109c-3 64 -77 99 -140 110v-30c1 -130 61 -155 142 -189z" />
+    <glyph glyph-name="beringin_affix_di.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M240 510c0 30 30 70 60 70s70 -40 70 -70s-40 -60 -70 -60s-60 30 -60 60zM120 510c0 -79 101 -170 180 -170s180 91 180 170s-101 170 -180 170s-180 -91 -180 -170zM40 510c0 136 124 250 260 250s260 -114 260 -250c0 -123 -101 -229 -220 -249v-311h-80v311
+c-119 20 -220 126 -220 249z" />
+    <glyph glyph-name="beringin_vowel_e.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 140v-80h-220v-110h-80l1 110h-221v80h520zM557 220h-367c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -174 -130 -213 -136c12 -63 38 -151 103 -154h327v-80z" />
+    <glyph glyph-name="beringin_ext_letter_gya.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 140h220v80h-220v440c0 108 220 140 220 140v50h80v-130s-215 -8 -220 -110v-310h140v160c0 108 220 140 220 140h80v-110v-3c0 -180 -101 -237 -220 -267v-80h220v-80h-220v-110h-80v110h-220v80zM339 300c81 34 140 60 141 190v30c-63 -11 -137 -46 -140 -110z" />
+    <glyph glyph-name="beringin_letter_eng.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 320c-17 -70 -109 -150 -109 -150h-11c-39 0 -84 20 -100 30v-250h-80v550h80v-161c4 -32 27 -69 57 -69c24 0 53 23 83 90v220c-5 102 -220 140 -220 140v130h80v-53s220 -49 220 -157v-320z" />
+    <glyph glyph-name="beringin_affix_kah.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M130 231c9 -78 93 -111 170 -111c79 0 180 91 180 170s-141 160 -220 160v87v313h80v-313c119 -20 220 -124 220 -247c0 -136 -124 -250 -260 -250c-134 0 -257 91 -260 225v65h310v-80h-220v-19z" />
+    <glyph glyph-name="beringin_ext_letter_sya.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 670c17 59 99 119 130 120h10c39 0 63 -11 80 -20v80h80v-390h-80v160c-4 32 -26 70 -57 70c-24 0 -53 -23 -83 -90v-200c4 -74 118 -92 180 -100h260v-80h-220v-80h220v-80h-220v-110h-80v110h-220v80h220v80s-220 22 -220 130v320zM376 335l-57 57l185 244l56 -56z
+" />
+    <glyph glyph-name="beringin_ext_letter_jya.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 670v-320c0 -108 -220 -130 -220 -130v-80h220v-80h-220v-110h-80v110h-220v80h220v80h-220v80h260c62 8 176 26 180 100v200c-30 67 -59 90 -83 90c-30 0 -53 -38 -57 -70v-160h-80v390h80v-80c17 9 41 20 80 20h10c31 -1 113 -61 130 -120zM224 335l-184 245l56 56
+l185 -244z" />
+    <glyph glyph-name="beringin_affix_ke.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 -50h-80v610h80v-610zM391 360c50 33 89 100 89 150c0 79 -101 170 -180 170s-180 -91 -180 -170c0 -50 30 -117 80 -150l-30 -70c-84 42 -130 124 -130 220c0 136 124 250 260 250s260 -114 260 -250c0 -90 -42 -176 -119 -220z" />
+    <glyph glyph-name="beringin_affix_lah.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 260h-80v590h80v-311c119 -20 220 -126 220 -249c0 -136 -124 -250 -260 -250c-134 0 -257 43 -260 310h85c9 -211 98 -230 175 -230c79 0 180 91 180 170c0 57 -71 120 -140 150v-180z" />
+    <glyph glyph-name="beringin_affix_men.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M120 510c0 -79 101 -170 180 -170s180 91 180 170s-101 170 -180 170s-180 -91 -180 -170zM40 510c0 136 124 250 260 250s260 -114 260 -250c0 -123 -101 -229 -220 -249v-311h-80v311c-119 20 -220 126 -220 249z" />
+    <glyph glyph-name="beringin_affix_kan.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M240 290c0 30 30 70 60 70s70 -40 70 -70s-40 -60 -70 -60s-60 30 -60 60zM125 285c9 -78 98 -165 175 -165c79 0 180 91 180 170s-72 143 -220 160v87v313h80v-313c119 -20 220 -124 220 -247c0 -136 -124 -250 -260 -250c-134 0 -257 111 -260 245h85z" />
+    <glyph glyph-name="beringin_ext_letter_kha.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 -50h-80v251c-119 30 -220 86 -220 266v3v250h80v-143s220 -29 220 -137v-490zM260 280v110c-3 64 -77 99 -140 110v-30c1 -130 59 -156 140 -190zM480 200v410c-5 102 -220 110 -220 110v130h80v-50s220 -32 220 -140v-460h-80z" />
+    <glyph glyph-name="beringin_affix_pen.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 510c0 136 124 250 260 250s260 -114 260 -250c0 -123 -101 -221 -220 -241v-319h-80v319c-119 20 -220 118 -220 241zM340 350c69 23 140 94 140 160c0 79 -101 170 -180 170s-180 -91 -180 -170c0 -66 71 -137 140 -160v210h80v-210z" />
+    <glyph glyph-name="beringin_ext_letter_gha.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 -50v490c0 108 220 137 220 137v143h80v-248v-3c0 -180 -101 -239 -220 -269v-250h-80zM340 280c81 34 139 60 140 190v30c-63 -11 -137 -46 -140 -110v-110zM120 200h-80v460c0 108 220 140 220 140v50h80v-130s-215 -8 -220 -110v-410z" />
+    <glyph glyph-name="beringin_affix_per.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 350c69 23 140 94 140 160c0 35 -20 72 -49 103l59 64c43 -45 70 -104 70 -167c0 -123 -101 -221 -220 -241v-319h-80v319c-119 20 -220 118 -220 241c0 63 27 122 70 167l59 -64c-29 -31 -49 -68 -49 -103c0 -66 71 -137 140 -160v200h80v-200z" />
+    <glyph glyph-name="beringin_affix_se.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200v-80h-220v-170h-80l1 170h-221v80h520zM120 510c0 -79 101 -170 180 -170s180 91 180 170s-101 170 -180 170s-180 -91 -180 -170zM40 510c0 136 124 250 260 250s260 -114 260 -250c0 -123 -101 -227 -220 -247v-3h-80v3c-119 20 -220 124 -220 247z" />
+    <glyph glyph-name="beringin_affix_ter.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M240 510c0 30 30 70 60 70s70 -40 70 -70s-40 -60 -70 -60s-60 30 -60 60zM120 510c0 -79 101 -170 180 -170s180 91 180 170c0 35 -20 72 -49 103l59 64c43 -45 70 -104 70 -167c0 -123 -101 -229 -220 -249v-311h-80v311c-119 20 -220 126 -220 249c0 63 27 122 70 167
+l59 -64c-29 -31 -49 -68 -49 -103z" />
+    <glyph glyph-name="beringin_ext_letter_tha.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 200v450c0 108 220 150 220 150v50h80v-50s220 -42 220 -150v-300c0 -108 -220 -139 -220 -139v-261h-80v340s215 8 220 110v210c-4 74 -118 102 -180 110c-62 -8 -176 -36 -180 -110v-410h-80z" />
+    <glyph glyph-name="beringin_ext_letter_dha.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200h-80v410c-4 74 -118 98 -180 106c-62 -8 -176 -32 -180 -106v-210c5 -102 220 -110 220 -110v-340h-80v261s-220 31 -220 139v300c0 108 220 150 220 150v50h80v-50s220 -42 220 -150v-450z" />
+    <glyph glyph-name="beringin_ext_letter_swa.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 670c17 59 99 119 130 120h10c39 0 63 -21 80 -30v90h80v-390h-80v160c-4 32 -27 70 -57 70c-24 0 -53 -23 -83 -90v-200c4 -74 118 -92 180 -100h162l-92 120l50 70l147 -190l-7 -1v-79h-220v-80h220v-80h-220v-110h-80v110h-220v80h220v70s-220 32 -220 140v320z
+" />
+    <glyph glyph-name="beringin_affix_nya.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M250 260l-210 221l50 79l210 -220zM125 285c9 -78 98 -165 175 -165c79 0 180 91 180 170s-141 160 -220 160v87v313h80v-311c119 -20 220 -126 220 -249c0 -136 -124 -250 -260 -250c-134 0 -257 111 -260 245h85z" />
+    <glyph glyph-name="beringin_letter_nye.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 320v320c0 108 220 160 220 160v50h80v-130s-215 -38 -220 -140v-220c30 -67 59 -90 83 -90c31 0 53 38 57 70v160h80v-550h-80v240c-17 -9 -41 -20 -80 -20h-10c0 0 -113 80 -130 150z" />
+    <glyph glyph-name="beringin_ext_letter_dwa.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 670v-320c0 -108 -220 -140 -220 -140v-70h220v-80h-220v-110h-80v110h-220v80h220v80h-220v79l-7 1l147 190l50 -70l-92 -120h162c62 8 176 26 180 100v200c-30 67 -59 90 -83 90c-30 0 -53 -38 -57 -70v-160h-80v390h80v-90c17 9 41 30 80 30h10
+c31 -1 113 -61 130 -120z" />
+    <glyph glyph-name="beringin_open_single_quote.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 760v-80h-220v-730h-80v730h-140v-230h-80v310h520z" />
+    <glyph glyph-name="beringin_ext_letter_tra.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 -50h-80v550h80v-550zM480 610c-4 80 -127 96 -184 110c-64 -10 -172 -41 -176 -110v-410h-80v450c0 108 220 150 220 150v50h80v-50s220 -42 220 -150v-650h-80v610z" />
+    <glyph glyph-name="beringin_close_sgle_quote.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 40v80h220v730h80v-730h140v230h80v-310h-520z" />
+    <glyph glyph-name="beringin_vowel_a.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 220v-270h-80v270h-70c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -175 -130 -213 -136c11 -64 38 -151 103 -154h327v-80h-217z" />
+    <glyph glyph-name="beringin_letter_beh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 800h80v-400c5 -102 220 -110 220 -110v-340h-80v263s-220 29 -220 137v450zM260 850h80v-390h-80v390z" />
+    <glyph glyph-name="beringin_letter_cheh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 600h80v-410c5 -102 220 -110 220 -110v-130h-80v51s-220 31 -220 139v460zM260 850h80v-250c119 -30 220 -87 220 -267v-3v-110h-80s-220 32 -220 140v490zM340 520v-110c3 -64 77 -99 140 -110v30c-1 130 -59 156 -140 190z" />
+    <glyph glyph-name="beringin_letter_deh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 200v450c0 108 220 149 220 149v51h80v-130s-215 -8 -220 -110v-410h-80zM260 -50v550h80v-550h-80z" />
+    <glyph glyph-name="beringin_vowel_eh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 220v-270h-80v270h-70c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-550h220v-80h-220zM260 500c-51 -25 -112 -43 -133 -46c11 -64 38 -151 103 -154l30 -1v201z" />
+    <glyph glyph-name="beringin_letter_ehf.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 410h-80v190h80v-190zM40 200v450c0 108 220 150 220 150v50h80v-130s-215 -8 -220 -110v-410h-80zM560 800v-450c0 -108 -220 -139 -220 -139v-261h-80v340s215 8 220 110v400h80z" />
+    <glyph glyph-name="beringin_letter_geh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 200v460c0 108 220 140 220 140v50h80v-130s-215 -8 -220 -110v-410h-80zM260 -50v490c0 108 220 140 220 140h80v-110v-3c0 -180 -102 -237 -221 -267c0 -112 1 -250 1 -250h-80zM340 280c81 34 139 60 140 190v30c-63 -11 -137 -46 -140 -110v-110z" />
+    <glyph glyph-name="beringin_letter_ha.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 200v450c0 108 220 150 220 150v50h80v-130s-215 -8 -220 -110v-410h-80zM560 800v-450c0 -108 -220 -139 -220 -139v-261h-80v340s215 8 220 110v400h80z" />
+    <glyph glyph-name="beringin_vowel_i.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M376 336l-57 57l185 244l56 -56zM340 220v-270h-80v270h-70c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -175 -130 -213 -136c11 -64 38 -151 103 -154h327v-80h-217z" />
+    <glyph glyph-name="beringin_letter_jeh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 600v-460c0 -108 -220 -139 -220 -139v-51h-80v130s215 8 220 110v410h80zM340 850v-490c0 -108 -220 -137 -220 -137v-3h-80v110v3c0 180 101 237 220 267v250h80zM260 520c-81 -34 -139 -60 -140 -190v-30c63 11 137 46 140 110v110z" />
+    <glyph glyph-name="beringin_letter_ka.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200h-80v410c-5 102 -220 110 -220 110v130h80v-50s220 -32 220 -140v-460zM340 -50h-80v250c-119 30 -220 81 -220 261v9v110h80s220 -32 220 -140v-490zM260 280v110c-3 64 -77 99 -140 110v-30c1 -130 59 -156 140 -190z" />
+    <glyph glyph-name="beringin_letter_ehl.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200h-80v410c-4 69 -102 94 -166 104c-57 -14 -190 -54 -194 -134v-220c30 -67 59 -90 83 -90c30 0 53 38 57 70v160h80v-550h-80v240c-17 -9 -41 -20 -80 -20h-10c0 0 -113 80 -130 150v320c0 108 220 160 220 160v50h80v-50s220 -42 220 -150v-450z" />
+    <glyph glyph-name="beringin_letter_ehm.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 670c17 59 99 119 130 120h10c39 0 63 -11 80 -20v80h80v-390h-80v161c-4 32 -27 69 -57 69c-24 0 -53 -23 -83 -90v-200c5 -102 220 -110 220 -110v-340h-80v260s-220 32 -220 140v320z" />
+    <glyph glyph-name="beringin_letter_ehn.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 670v-320c0 -108 -220 -139 -220 -139v-261h-80v340s215 8 220 110v200c-30 67 -59 90 -83 90c-30 0 -53 -38 -57 -70v-160h-80v390h80v-90c17 9 41 30 80 30h10c31 -1 113 -61 130 -120z" />
+    <glyph glyph-name="beringin_vowel_o.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 220v-270h-80v270h-70c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -175 -130 -213 -136c11 -64 38 -151 103 -154h30c0 185 220 192 220 192v-2h80v-270h-220zM341 300l139 -2v112c-57 0 -138 -33 -139 -110z" />
+    <glyph glyph-name="beringin_letter_peh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 800v-450c0 -108 -220 -139 -220 -139v-261h-80v340s215 8 220 110v400h80zM340 850v-390h-80v390h80z" />
+    <glyph glyph-name="beringin_letter_ki.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 280v110c-3 64 -77 99 -140 110v-30c1 -130 59 -156 140 -190zM560 200h-80v410c-5 102 -220 110 -220 110v130h80v-50s220 -32 220 -140v-460zM340 60v-110h-80l1 110h-221v80h220v60c-119 30 -220 87 -220 267v3v110h80s220 -32 220 -140v-300h220v-80h-220z" />
+    <glyph glyph-name="beringin_letter_ehr.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 200v450c0 108 220 150 220 150v50h80v-50s220 -52 220 -160v-320c-17 -70 -130 -150 -130 -150h-10c-39 0 -63 11 -80 20v-240h-80v550h80v-160c4 -32 27 -70 57 -70c24 0 53 23 83 90v220c-4 80 -137 120 -194 134c-64 -10 -162 -35 -166 -104v-410h-80z" />
+    <glyph glyph-name="beringin_letter_ehs.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M40 670c17 59 99 119 130 120h10c39 0 63 -21 80 -30v90h80v-390h-80v160c-4 32 -27 70 -57 70c-24 0 -53 -23 -83 -90v-200c4 -74 118 -98 180 -106c62 8 176 32 180 106v400h80v-450c0 -108 -220 -139 -220 -139v-261h-80v260s-220 32 -220 140v320z" />
+    <glyph glyph-name="beringin_letter_teh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 200h-80v410c-5 102 -220 110 -220 110v130h80v-51s220 -41 220 -149v-450zM340 -50h-80v550h80v-550z" />
+    <glyph glyph-name="beringin_vowel_u.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 220h-70c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -175 -130 -213 -136c11 -64 38 -151 103 -154h231l-101 130l50 70l147 -190v-90h-217v-270h-80v270z" />
+    <glyph glyph-name="beringin_letter_fi.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 410v190h80v-190h-80zM560 200h-80v410c-5 102 -220 110 -220 110v130h80v-50s220 -42 220 -150v-450zM40 800h80v-400c5 -102 220 -110 220 -110v-340h-80v261s-220 31 -220 139v450z" />
+    <glyph glyph-name="beringin_letter_weh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 140v-80h-220v-110h-80l1 110h-221v80h520zM557 220h-367c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -175 -130 -213 -136c11 -64 38 -151 103 -154h230l-100 130l50 70l147 -190v-90z" />
+    <glyph glyph-name="beringin_letter_ehks.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 670v-320c0 -108 -220 -140 -220 -140v-70h220v-80h-220v-110h-80v110h-220v80h220v70s-220 32 -220 140v450h80v-400c4 -74 118 -98 180 -106c62 8 176 32 180 106v200c-30 67 -59 90 -83 90c-30 0 -53 -37 -57 -69v-161h-80v390h80v-90c17 9 41 30 80 30h10
+c31 -1 113 -61 130 -120z" />
+    <glyph glyph-name="beringin_letter_yeh.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M376 336l-57 57l185 244l56 -56zM560 140v-80h-220v-110h-80l1 110h-221v80h520zM560 220h-370c-108 0 -150 220 -150 220v90s215 8 220 110v210h80v-260c0 -96 -174 -130 -213 -136c12 -63 38 -151 103 -154h330v-80z" />
+    <glyph glyph-name="beringin_letter_zeht.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M560 670v-320c0 -108 -220 -139 -220 -139v-261h-80v261s-220 31 -220 139v460h80v-410c4 -74 118 -98 180 -106c62 8 176 32 180 106v200c-30 67 -59 90 -83 90c-30 0 -53 -38 -57 -70v-160h-80v390h80v-90c17 9 41 30 80 30h10c31 -1 113 -61 130 -120z" />
+    <glyph glyph-name="beringin_ext_letter_dza.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 220h-220v80l140 190l50 -70l-92 -120h162c62 8 176 26 180 100v200c-30 67 -59 90 -83 90c-30 0 -53 -37 -57 -69v-161h-80v390h80v-90c17 9 41 30 80 30h10c31 -1 113 -61 130 -120v-320c0 -108 -220 -130 -220 -130v-270h-80v270z" />
+    <glyph glyph-name="beringin_ext_letter_tsa.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M340 220v-270h-80v270s-220 22 -220 130v320c17 59 99 119 130 120h10c39 0 63 -21 80 -30v90h80v-390h-80v161c-4 32 -27 69 -57 69c-24 0 -53 -23 -83 -90v-200c4 -74 118 -92 180 -100h162l-92 120l50 70l140 -190v-80h-220z" />
+    <glyph glyph-name="beringin_ext_letter_dra.vert" horiz-adv-x="600" vert-adv-y="800" orientation="v" 
+d="M260 500h80v-550h-80v550zM120 150v-150h-80v650c0 108 220 150 220 150v50h80v-50s220 -42 220 -150v-450h-80v410c-4 69 -112 100 -176 110c-57 -14 -180 -30 -184 -110v-460z" />
+    <glyph glyph-name="null_character.rtla" vert-adv-y="600" 
+d="M290 560c30 0 70 -30 70 -60s-40 -70 -70 -70s-60 40 -60 70s30 60 60 60z" />
+    <glyph glyph-name="beringin_space.rtla" vert-adv-y="600" 
+ />
+    <glyph glyph-name="beringin_exclamation_mark.rtla" vert-adv-y="600" 
+d="M290 240v80h304c-31 63 -41 140 -41 140h-113c-108 0 -140 220 -140 220v80h79h1c121 0 216 -149 247 -220h223v-80h-210c13 -62 40 -137 100 -140h60v-79zM540 540c-38 39 -71 140 -160 140c17 -96 50 -140 160 -140z" />
+    <glyph glyph-name="beringin_word_dup_mark.rtla" vert-adv-y="600" 
+d="M570 540v190h80s81 -129 150 -190h50v-80h-200v-190h-80v190h-240v80h240z" />
+    <glyph glyph-name="beringin_ext_letter_ak.rtla" vert-adv-y="600" 
+d="M200 240v80h410c102 5 110 220 110 220h130v-80h-53s-29 -220 -137 -220h-460z" />
+    <glyph glyph-name="beringin_open_parenthesis.rtla" vert-adv-y="600" 
+d="M760 760v-520h-310v80h230v140h-730v80h730v220h80z" />
+    <glyph glyph-name="beringin_close_parenthesis.rtla" vert-adv-y="600" 
+d="M40 240v520h310v-80h-230v-140h730v-80h-730v-220h-80z" />
+    <glyph glyph-name="beringin_comma.rtla" vert-adv-y="600" 
+d="M850 460h-410c-108 0 -140 220 -140 220v80h88c122 0 212 -150 242 -220h220v-80zM547 538c-34 31 -77 141 -157 142h-10c11 -63 46 -137 110 -140z" />
+    <glyph glyph-name="beringin_hyphen.rtla" vert-adv-y="600" 
+d="M850 460h-900v80h900v-80z" />
+    <glyph glyph-name="beringin_period.rtla" vert-adv-y="600" 
+d="M800 240h-110c-108 0 -140 220 -140 220h-110c-108 0 -140 220 -140 220v80h87h1c143 0 183 -161 242 -220h220v-80h-210c12 -62 40 -137 100 -140h60v-80zM544 540c-34 34 -76 139 -154 140h-10c11 -63 46 -137 110 -140h54z" />
+    <glyph glyph-name="beringin_solidus.rtla" vert-adv-y="600" 
+d="M380 240h-80v220h-200v80h200v220h80v-520zM420 760h80v-220h200v-80h-200v-220h-80v520z" />
+    <glyph glyph-name="beringin_digit_zero.rtla" vert-adv-y="600" 
+d="M450 460v-220h-80v220h-220v80h220v220h80v-220h200v-80h-200z" />
+    <glyph glyph-name="beringin_digit_one.rtla" vert-adv-y="600" 
+d="M524 540c-31 63 -44 140 -44 140v80h80c0 -62 1 -216 90 -220v-80h-500v80h374z" />
+    <glyph glyph-name="beringin_digit_two.rtla" vert-adv-y="600" 
+d="M420 540v220h80s81 -159 150 -220v-80h-150v-220h-80v220h-270v80h270z" />
+    <glyph glyph-name="beringin_digit_three.rtla" vert-adv-y="600" 
+d="M524 460h-374v80h500v-80c-83 -4 -90 -146 -90 -200v-20h-80v80h3s10 77 41 140z" />
+    <glyph glyph-name="beringin_digit_four.rtla" vert-adv-y="600" 
+d="M420 460h-270v80h270v220h80v-220h150v-80c-69 -61 -150 -220 -150 -220h-80v220z" />
+    <glyph glyph-name="beringin_digit_five.rtla" vert-adv-y="600" 
+d="M150 460v80h410c-12 62 -40 137 -100 140c-49 3 -71 3 -80 3v77h120c108 0 150 -220 150 -220v-80h-500z" />
+    <glyph glyph-name="beringin_digit_six.rtla" vert-adv-y="600" 
+d="M150 460v80h410c-12 62 -40 137 -100 140c-49 3 -71 3 -80 3v77h120c108 0 150 -220 150 -220v-300h-90v220h-410z" />
+    <glyph glyph-name="beringin_digit_seven.rtla" vert-adv-y="600" 
+d="M150 540h500v-80s-42 -220 -150 -220c-75 0 -120 1 -120 1v79h80c60 3 88 78 100 140h-410v80z" />
+    <glyph glyph-name="beringin_digit_eight.rtla" vert-adv-y="600" 
+d="M150 540h410v220h90v-300s-42 -220 -150 -220h-120l-1 80h81c60 3 88 78 100 140h-410v80z" />
+    <glyph glyph-name="beringin_digit_nine.rtla" vert-adv-y="600" 
+d="M310 460c23 -69 64 -140 130 -140s117 71 130 140h-260zM440 760c136 0 210 -125 210 -261s-74 -259 -210 -259c-123 0 -190 101 -210 220h-80v80h80c20 119 87 220 210 220zM570 540c-13 69 -64 140 -130 140s-107 -71 -130 -140h260z" />
+    <glyph glyph-name="beringin_colon.rtla" vert-adv-y="600" 
+d="M300 680v80c266 0 150 -220 259 -220h1h290v-80h-290c-110 0 2 -220 -258 -220h-2v80c172 0 59 138 180 180c-121 39 -8 180 -180 180z" />
+    <glyph glyph-name="beringin_semicolon.rtla" vert-adv-y="600" 
+d="M800 640h-170v80h170v-80zM850 460h-410c-108 0 -140 220 -140 220v80h87h1c122 0 212 -150 242 -220h220v-80zM550 539c-34 31 -80 140 -160 141h-10c11 -63 46 -137 110 -140z" />
+    <glyph glyph-name="beringin_open_double_quote.rtla" vert-adv-y="600" 
+d="M760 760v-520h-310v70h230v40h-150v60h150v50h-730v80h730v220h80z" />
+    <glyph glyph-name="beringin_close_dble_quote.rtla" vert-adv-y="600" 
+d="M40 240v520h310v-70h-230v-40h150v-60h-150v-50h730v-80h-730v-220h-80z" />
+    <glyph glyph-name="beringin_question_mark.rtla" vert-adv-y="600" 
+d="M256 424l57 57l244 -185l-56 -56zM800 240h-110c-108 0 -131 220 -131 220h-119c-108 0 -140 220 -140 220v80h87h1c120 0 211 -149 242 -220h220v-80h-210c12 -62 40 -137 100 -140h60v-80zM544 540c-34 34 -76 139 -154 140h-10c11 -63 46 -137 110 -140h54z" />
+    <glyph glyph-name="beringin_affix_an.rtla" vert-adv-y="600" 
+d="M285 675c-78 -9 -165 -98 -165 -175c0 -79 55 -180 170 -180c95 0 170 141 170 220h390v-80h-313c-20 -119 -97 -220 -247 -220c-167 0 -250 124 -250 260c0 134 111 257 245 260v-85z" />
+    <glyph glyph-name="beringin_affix_ber.rtla" vert-adv-y="600" 
+d="M510 680c-79 0 -170 -101 -170 -180s91 -180 170 -180c35 0 72 20 103 49l64 -59c-45 -43 -104 -70 -167 -70c-123 0 -227 101 -247 220h-313v80h313c20 119 124 220 247 220c63 0 122 -27 167 -70l-64 -59c-31 29 -68 49 -103 49z" />
+    <glyph glyph-name="beringin_ext_letter_kya.rtla" vert-adv-y="600" 
+d="M140 240h-80v220h-110v80h110v220h80v-220h80c30 119 87 220 267 220h3h110v-80s-32 -220 -140 -220h-160v-140h310c102 5 110 220 110 220h130v-80h-50s-32 -220 -140 -220h-440v220h-80v-220zM301 538l109 2c64 3 99 77 110 140h-30c-130 -1 -155 -61 -189 -142z" />
+    <glyph glyph-name="beringin_affix_di.rtla" vert-adv-y="600" 
+d="M510 560c30 0 70 -30 70 -60s-40 -70 -70 -70s-60 40 -60 70s30 60 60 60zM510 680c-79 0 -170 -101 -170 -180s91 -180 170 -180s170 101 170 180s-91 180 -170 180zM510 760c136 0 250 -124 250 -260s-114 -260 -250 -260c-123 0 -229 101 -249 220h-311v80h311
+c20 119 126 220 249 220z" />
+    <glyph glyph-name="beringin_vowel_e.rtla" vert-adv-y="600" 
+d="M140 240h-80v220h-110v80l110 -1v221h80v-520zM220 243v367c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 174 -136 213c-63 -12 -151 -38 -154 -103v-327h-80z" />
+    <glyph glyph-name="beringin_ext_letter_gya.rtla" vert-adv-y="600" 
+d="M140 760v-220h80v220h440c108 0 140 -220 140 -220h50v-80h-130s-8 215 -110 220h-310v-140h160c108 0 140 -220 140 -220v-80h-110h-3c-180 0 -237 101 -267 220h-80v-220h-80v220h-110v80h110v220h80zM300 461c34 -81 60 -140 190 -141h30c-11 63 -46 137 -110 140z
+" />
+    <glyph glyph-name="beringin_letter_eng.rtla" vert-adv-y="600" 
+d="M320 240c-70 17 -150 109 -150 109v11c0 39 20 84 30 100h-250v80h550v-80h-161c-32 -4 -69 -27 -69 -57c0 -24 23 -53 90 -83h220c102 5 140 220 140 220h130v-80h-53s-49 -220 -157 -220h-320z" />
+    <glyph glyph-name="beringin_affix_kah.rtla" vert-adv-y="600" 
+d="M231 670c-78 -9 -111 -93 -111 -170c0 -79 91 -180 170 -180s160 141 160 220h87h313v-80h-313c-20 -119 -124 -220 -247 -220c-136 0 -250 124 -250 260c0 134 91 257 225 260h65v-310h-80v220h-19z" />
+    <glyph glyph-name="beringin_ext_letter_sya.rtla" vert-adv-y="600" 
+d="M670 760c59 -17 119 -99 120 -130v-10c0 -39 -11 -63 -20 -80h80v-80h-390v80h160c32 4 70 26 70 57c0 24 -23 53 -90 83h-200c-74 -4 -92 -118 -100 -180v-260h-80v220h-80v-220h-80v220h-110v80h110v220h80v-220h80s22 220 130 220h320zM335 424l57 57l244 -185
+l-56 -56z" />
+    <glyph glyph-name="beringin_ext_letter_jya.rtla" vert-adv-y="600" 
+d="M670 240h-320c-108 0 -130 220 -130 220h-80v-220h-80v220h-110v80h110v220h80v-220h80v220h80v-260c8 -62 26 -176 100 -180h200c67 30 90 59 90 83c0 30 -38 53 -70 57h-160v80h390v-80h-80c9 -17 20 -41 20 -80v-10c-1 -31 -61 -113 -120 -130zM335 576l245 184
+l56 -56l-244 -185z" />
+    <glyph glyph-name="beringin_affix_ke.rtla" vert-adv-y="600" 
+d="M-50 460v80h610v-80h-610zM360 409c33 -50 100 -89 150 -89c79 0 170 101 170 180s-91 180 -170 180c-50 0 -117 -30 -150 -80l-70 30c42 84 124 130 220 130c136 0 250 -124 250 -260s-114 -260 -250 -260c-90 0 -176 42 -220 119z" />
+    <glyph glyph-name="beringin_affix_lah.rtla" vert-adv-y="600" 
+d="M260 460v80h590v-80h-311c-20 -119 -126 -220 -249 -220c-136 0 -250 124 -250 260c0 134 43 257 310 260v-85c-211 -9 -230 -98 -230 -175c0 -79 91 -180 170 -180c57 0 120 71 150 140h-180z" />
+    <glyph glyph-name="beringin_affix_men.rtla" vert-adv-y="600" 
+d="M510 680c-79 0 -170 -101 -170 -180s91 -180 170 -180s170 101 170 180s-91 180 -170 180zM510 760c136 0 250 -124 250 -260s-114 -260 -250 -260c-123 0 -229 101 -249 220h-311v80h311c20 119 126 220 249 220z" />
+    <glyph glyph-name="beringin_affix_kan.rtla" vert-adv-y="600" 
+d="M290 560c30 0 70 -30 70 -60s-40 -70 -70 -70s-60 40 -60 70s30 60 60 60zM285 675c-78 -9 -165 -98 -165 -175c0 -79 91 -180 170 -180s143 72 160 220h87h313v-80h-313c-20 -119 -124 -220 -247 -220c-136 0 -250 124 -250 260c0 134 111 257 245 260v-85z" />
+    <glyph glyph-name="beringin_ext_letter_kha.rtla" vert-adv-y="600" 
+d="M-50 460v80h251c30 119 86 220 266 220h3h250v-80h-143s-29 -220 -137 -220h-490zM280 540h110c64 3 99 77 110 140h-30c-130 -1 -156 -59 -190 -140zM200 320h410c102 5 110 220 110 220h130v-80h-50s-32 -220 -140 -220h-460v80z" />
+    <glyph glyph-name="beringin_affix_pen.rtla" vert-adv-y="600" 
+d="M510 760c136 0 250 -124 250 -260s-114 -260 -250 -260c-123 0 -221 101 -241 220h-319v80h319c20 119 118 220 241 220zM350 460c23 -69 94 -140 160 -140c79 0 170 101 170 180s-91 180 -170 180c-66 0 -137 -71 -160 -140h210v-80h-210z" />
+    <glyph glyph-name="beringin_ext_letter_gha.rtla" vert-adv-y="600" 
+d="M-50 540h490c108 0 137 -220 137 -220h143v-80h-248h-3c-180 0 -239 101 -269 220h-250v80zM280 460c34 -81 60 -139 190 -140h30c-11 63 -46 137 -110 140h-110zM200 680v80h460c108 0 140 -220 140 -220h50v-80h-130s-8 215 -110 220h-410z" />
+    <glyph glyph-name="beringin_affix_per.rtla" vert-adv-y="600" 
+d="M350 460c23 -69 94 -140 160 -140c35 0 72 20 103 49l64 -59c-45 -43 -104 -70 -167 -70c-123 0 -221 101 -241 220h-319v80h319c20 119 118 220 241 220c63 0 122 -27 167 -70l-64 -59c-31 29 -68 49 -103 49c-66 0 -137 -71 -160 -140h200v-80h-200z" />
+    <glyph glyph-name="beringin_affix_se.rtla" vert-adv-y="600" 
+d="M200 240h-80v220h-170v80l170 -1v221h80v-520zM510 680c-79 0 -170 -101 -170 -180s91 -180 170 -180s170 101 170 180s-91 180 -170 180zM510 760c136 0 250 -124 250 -260s-114 -260 -250 -260c-123 0 -227 101 -247 220h-3v80h3c20 119 124 220 247 220z" />
+    <glyph glyph-name="beringin_affix_ter.rtla" vert-adv-y="600" 
+d="M510 560c30 0 70 -30 70 -60s-40 -70 -70 -70s-60 40 -60 70s30 60 60 60zM510 680c-79 0 -170 -101 -170 -180s91 -180 170 -180c35 0 72 20 103 49l64 -59c-45 -43 -104 -70 -167 -70c-123 0 -229 101 -249 220h-311v80h311c20 119 126 220 249 220
+c63 0 122 -27 167 -70l-64 -59c-31 29 -68 49 -103 49z" />
+    <glyph glyph-name="beringin_ext_letter_tha.rtla" vert-adv-y="600" 
+d="M200 760h450c108 0 150 -220 150 -220h50v-80h-50s-42 -220 -150 -220h-300c-108 0 -139 220 -139 220h-261v80h340s8 -215 110 -220h210c74 4 102 118 110 180c-8 62 -36 176 -110 180h-410v80z" />
+    <glyph glyph-name="beringin_ext_letter_dha.rtla" vert-adv-y="600" 
+d="M200 240v80h410c74 4 98 118 106 180c-8 62 -32 176 -106 180h-210c-102 -5 -110 -220 -110 -220h-340v80h261s31 220 139 220h300c108 0 150 -220 150 -220h50v-80h-50s-42 -220 -150 -220h-450z" />
+    <glyph glyph-name="beringin_ext_letter_swa.rtla" vert-adv-y="600" 
+d="M670 760c59 -17 119 -99 120 -130v-10c0 -39 -21 -63 -30 -80h90v-80h-390v80h160c32 4 70 27 70 57c0 24 -23 53 -90 83h-200c-74 -4 -92 -118 -100 -180v-162l120 92l70 -50l-190 -147l-1 7h-79v220h-80v-220h-80v220h-110v80h110v220h80v-220h70s32 220 140 220h320z
+" />
+    <glyph glyph-name="beringin_affix_nya.rtla" vert-adv-y="600" 
+d="M260 550l221 210l79 -50l-220 -210zM285 675c-78 -9 -165 -98 -165 -175c0 -79 91 -180 170 -180s160 141 160 220h87h313v-80h-311c-20 -119 -126 -220 -249 -220c-136 0 -250 124 -250 260c0 134 111 257 245 260v-85z" />
+    <glyph glyph-name="beringin_letter_nye.rtla" vert-adv-y="600" 
+d="M320 760h320c108 0 160 -220 160 -220h50v-80h-130s-38 215 -140 220h-220c-67 -30 -90 -59 -90 -83c0 -31 38 -53 70 -57h160v-80h-550v80h240c-9 17 -20 41 -20 80v10c0 0 80 113 150 130z" />
+    <glyph glyph-name="beringin_ext_letter_dwa.rtla" vert-adv-y="600" 
+d="M670 240h-320c-108 0 -140 220 -140 220h-70v-220h-80v220h-110v80h110v220h80v-220h80v220h79l1 7l190 -147l-70 -50l-120 92v-162c8 -62 26 -176 100 -180h200c67 30 90 59 90 83c0 30 -38 53 -70 57h-160v80h390v-80h-90c9 -17 30 -41 30 -80v-10
+c-1 -31 -61 -113 -120 -130z" />
+    <glyph glyph-name="beringin_open_single_quote.rtla" vert-adv-y="600" 
+d="M760 240h-80v220h-730v80h730v140h-230v80h310v-520z" />
+    <glyph glyph-name="beringin_ext_letter_tra.rtla" vert-adv-y="600" 
+d="M-50 460v80h550v-80h-550zM610 320c80 4 96 127 110 184c-10 64 -41 172 -110 176h-410v80h450c108 0 150 -220 150 -220h50v-80h-50s-42 -220 -150 -220h-650v80h610z" />
+    <glyph glyph-name="beringin_close_sgle_quote.rtla" vert-adv-y="600" 
+d="M40 760h80v-220h730v-80h-730v-140h230v-80h-310v520z" />
+    <glyph glyph-name="beringin_vowel_a.rtla" vert-adv-y="600" 
+d="M220 460h-270v80h270v70c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 175 -136 213c-64 -11 -151 -38 -154 -103v-327h-80v217z" />
+    <glyph glyph-name="beringin_letter_beh.rtla" vert-adv-y="600" 
+d="M800 760v-80h-400c-102 -5 -110 -220 -110 -220h-340v80h263s29 220 137 220h450zM850 540v-80h-390v80h390z" />
+    <glyph glyph-name="beringin_letter_cheh.rtla" vert-adv-y="600" 
+d="M600 760v-80h-410c-102 -5 -110 -220 -110 -220h-130v80h51s31 220 139 220h460zM850 540v-80h-250c-30 -119 -87 -220 -267 -220h-3h-110v80s32 220 140 220h490zM520 460h-110c-64 -3 -99 -77 -110 -140h30c130 1 156 59 190 140z" />
+    <glyph glyph-name="beringin_letter_deh.rtla" vert-adv-y="600" 
+d="M200 760h450c108 0 149 -220 149 -220h51v-80h-130s-8 215 -110 220h-410v80zM-50 540h550v-80h-550v80z" />
+    <glyph glyph-name="beringin_vowel_eh.rtla" vert-adv-y="600" 
+d="M220 460h-270v80h270v70c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-550v-220h-80v220zM500 540c-25 51 -43 112 -46 133c-64 -11 -151 -38 -154 -103l-1 -30h201z" />
+    <glyph glyph-name="beringin_letter_ehf.rtla" vert-adv-y="600" 
+d="M410 460v80h190v-80h-190zM200 760h450c108 0 150 -220 150 -220h50v-80h-130s-8 215 -110 220h-410v80zM800 240h-450c-108 0 -139 220 -139 220h-261v80h340s8 -215 110 -220h400v-80z" />
+    <glyph glyph-name="beringin_letter_geh.rtla" vert-adv-y="600" 
+d="M200 760h460c108 0 140 -220 140 -220h50v-80h-130s-8 215 -110 220h-410v80zM-50 540h490c108 0 140 -220 140 -220v-80h-110h-3c-180 0 -237 102 -267 221c-112 0 -250 -1 -250 -1v80zM280 460c34 -81 60 -139 190 -140h30c-11 63 -46 137 -110 140h-110z" />
+    <glyph glyph-name="beringin_letter_ha.rtla" vert-adv-y="600" 
+d="M200 760h450c108 0 150 -220 150 -220h50v-80h-130s-8 215 -110 220h-410v80zM800 240h-450c-108 0 -139 220 -139 220h-261v80h340s8 -215 110 -220h400v-80z" />
+    <glyph glyph-name="beringin_vowel_i.rtla" vert-adv-y="600" 
+d="M336 424l57 57l244 -185l-56 -56zM220 460h-270v80h270v70c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 175 -136 213c-64 -11 -151 -38 -154 -103v-327h-80v217z" />
+    <glyph glyph-name="beringin_letter_jeh.rtla" vert-adv-y="600" 
+d="M600 240h-460c-108 0 -139 220 -139 220h-51v80h130s8 -215 110 -220h410v-80zM850 460h-490c-108 0 -137 220 -137 220h-3v80h110h3c180 0 237 -101 267 -220h250v-80zM520 540c-34 81 -60 139 -190 140h-30c11 -63 46 -137 110 -140h110z" />
+    <glyph glyph-name="beringin_letter_ka.rtla" vert-adv-y="600" 
+d="M200 240v80h410c102 5 110 220 110 220h130v-80h-50s-32 -220 -140 -220h-460zM-50 460v80h250c30 119 81 220 261 220h9h110v-80s-32 -220 -140 -220h-490zM280 540h110c64 3 99 77 110 140h-30c-130 -1 -156 -59 -190 -140z" />
+    <glyph glyph-name="beringin_letter_ehl.rtla" vert-adv-y="600" 
+d="M200 240v80h410c69 4 94 102 104 166c-14 57 -54 190 -134 194h-220c-67 -30 -90 -59 -90 -83c0 -30 38 -53 70 -57h160v-80h-550v80h240c-9 17 -20 41 -20 80v10c0 0 80 113 150 130h320c108 0 160 -220 160 -220h50v-80h-50s-42 -220 -150 -220h-450z" />
+    <glyph glyph-name="beringin_letter_ehm.rtla" vert-adv-y="600" 
+d="M670 760c59 -17 119 -99 120 -130v-10c0 -39 -11 -63 -20 -80h80v-80h-390v80h161c32 4 69 27 69 57c0 24 -23 53 -90 83h-200c-102 -5 -110 -220 -110 -220h-340v80h260s32 220 140 220h320z" />
+    <glyph glyph-name="beringin_letter_ehn.rtla" vert-adv-y="600" 
+d="M670 240h-320c-108 0 -139 220 -139 220h-261v80h340s8 -215 110 -220h200c67 30 90 59 90 83c0 30 -38 53 -70 57h-160v80h390v-80h-90c9 -17 30 -41 30 -80v-10c-1 -31 -61 -113 -120 -130z" />
+    <glyph glyph-name="beringin_vowel_o.rtla" vert-adv-y="600" 
+d="M220 460h-270v80h270v70c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 175 -136 213c-64 -11 -151 -38 -154 -103v-30c185 0 192 -220 192 -220h-2v-80h-270v220zM300 459l-2 -139h112c0 57 -33 138 -110 139z" />
+    <glyph glyph-name="beringin_letter_peh.rtla" vert-adv-y="600" 
+d="M800 240h-450c-108 0 -139 220 -139 220h-261v80h340s8 -215 110 -220h400v-80zM850 460h-390v80h390v-80z" />
+    <glyph glyph-name="beringin_letter_ki.rtla" vert-adv-y="600" 
+d="M280 540h110c64 3 99 77 110 140h-30c-130 -1 -156 -59 -190 -140zM200 240v80h410c102 5 110 220 110 220h130v-80h-50s-32 -220 -140 -220h-460zM60 460h-110v80l110 -1v221h80v-220h60c30 119 87 220 267 220h3h110v-80s-32 -220 -140 -220h-300v-220h-80v220z" />
+    <glyph glyph-name="beringin_letter_ehr.rtla" vert-adv-y="600" 
+d="M200 760h450c108 0 150 -220 150 -220h50v-80h-50s-52 -220 -160 -220h-320c-70 17 -150 130 -150 130v10c0 39 11 63 20 80h-240v80h550v-80h-160c-32 -4 -70 -27 -70 -57c0 -24 23 -53 90 -83h220c80 4 120 137 134 194c-10 64 -35 162 -104 166h-410v80z" />
+    <glyph glyph-name="beringin_letter_ehs.rtla" vert-adv-y="600" 
+d="M670 760c59 -17 119 -99 120 -130v-10c0 -39 -21 -63 -30 -80h90v-80h-390v80h160c32 4 70 27 70 57c0 24 -23 53 -90 83h-200c-74 -4 -98 -118 -106 -180c8 -62 32 -176 106 -180h400v-80h-450c-108 0 -139 220 -139 220h-261v80h260s32 220 140 220h320z" />
+    <glyph glyph-name="beringin_letter_teh.rtla" vert-adv-y="600" 
+d="M200 240v80h410c102 5 110 220 110 220h130v-80h-51s-41 -220 -149 -220h-450zM-50 460v80h550v-80h-550z" />
+    <glyph glyph-name="beringin_vowel_u.rtla" vert-adv-y="600" 
+d="M220 540v70c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 175 -136 213c-64 -11 -151 -38 -154 -103v-231l130 101l70 -50l-190 -147h-90v217h-270v80h270z" />
+    <glyph glyph-name="beringin_letter_fi.rtla" vert-adv-y="600" 
+d="M410 540h190v-80h-190v80zM200 240v80h410c102 5 110 220 110 220h130v-80h-50s-42 -220 -150 -220h-450zM800 760v-80h-400c-102 -5 -110 -220 -110 -220h-340v80h261s31 220 139 220h450z" />
+    <glyph glyph-name="beringin_letter_weh.rtla" vert-adv-y="600" 
+d="M140 240h-80v220h-110v80l110 -1v221h80v-520zM220 243v367c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 175 -136 213c-64 -11 -151 -38 -154 -103v-230l130 100l70 -50l-190 -147h-90z" />
+    <glyph glyph-name="beringin_letter_ehks.rtla" vert-adv-y="600" 
+d="M670 240h-320c-108 0 -140 220 -140 220h-70v-220h-80v220h-110v80h110v220h80v-220h70s32 220 140 220h450v-80h-400c-74 -4 -98 -118 -106 -180c8 -62 32 -176 106 -180h200c67 30 90 59 90 83c0 30 -37 53 -69 57h-161v80h390v-80h-90c9 -17 30 -41 30 -80v-10
+c-1 -31 -61 -113 -120 -130z" />
+    <glyph glyph-name="beringin_letter_yeh.rtla" vert-adv-y="600" 
+d="M336 424l57 57l244 -185l-56 -56zM140 240h-80v220h-110v80l110 -1v221h80v-520zM220 240v370c0 108 220 150 220 150h90s8 -215 110 -220h210v-80h-260c-96 0 -130 174 -136 213c-63 -12 -151 -38 -154 -103v-330h-80z" />
+    <glyph glyph-name="beringin_letter_zeht.rtla" vert-adv-y="600" 
+d="M670 240h-320c-108 0 -139 220 -139 220h-261v80h261s31 220 139 220h460v-80h-410c-74 -4 -98 -118 -106 -180c8 -62 32 -176 106 -180h200c67 30 90 59 90 83c0 30 -38 53 -70 57h-160v80h390v-80h-90c9 -17 30 -41 30 -80v-10c-1 -31 -61 -113 -120 -130z" />
+    <glyph glyph-name="beringin_ext_letter_dza.rtla" vert-adv-y="600" 
+d="M220 540v220h80l190 -140l-70 -50l-120 92v-162c8 -62 26 -176 100 -180h200c67 30 90 59 90 83c0 30 -37 53 -69 57h-161v80h390v-80h-90c9 -17 30 -41 30 -80v-10c-1 -31 -61 -113 -120 -130h-320c-108 0 -130 220 -130 220h-270v80h270z" />
+    <glyph glyph-name="beringin_ext_letter_tsa.rtla" vert-adv-y="600" 
+d="M220 460h-270v80h270s22 220 130 220h320c59 -17 119 -99 120 -130v-10c0 -39 -21 -63 -30 -80h90v-80h-390v80h161c32 4 69 27 69 57c0 24 -23 53 -90 83h-200c-74 -4 -92 -118 -100 -180v-162l120 92l70 -50l-190 -140h-80v220z" />
+    <glyph glyph-name="beringin_ext_letter_dra.rtla" vert-adv-y="600" 
+d="M500 540v-80h-550v80h550zM150 680h-150v80h650c108 0 150 -220 150 -220h50v-80h-50s-42 -220 -150 -220h-450v80h410c69 4 100 112 110 176c-14 57 -30 180 -110 184h-460z" />
+  </font>
+</defs></svg>

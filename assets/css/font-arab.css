@@ -1,0 +1,110 @@
+/*
+ * === Fonts for Jawi Malay (ms-Arab) ===
+ * Website header: Lateef
+ * Page headings: Amiri
+ * Main contents: Harmattan
+ * This file is written by Yaya MNH48 and licensed under MIT
+ *
+ */
+
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/lateef/LateefGR-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/lateef/LateefGR-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/amiri/Amiri-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/amiri/Amiri-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/amiri/Amiri-Slanted.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/amiri/Amiri-BoldSlanted.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MNH48 Jawi Ceria';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/mnh48jawiceria/mnh48jawiceria-regular.woff') format('woff');
+}
+
+/* Inject missing Jawi comma glyphs into loaded font */
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/jawicomma/jawicomma.woff') format('woff');
+  unicode-range: U+204F, U+2E41;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/jawicomma/jawicomma.woff') format('woff');
+  unicode-range: U+204F, U+2E41;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/jawicomma/jawicomma.woff') format('woff');
+  unicode-range: U+204F, U+2E41;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/jawicomma/jawicomma.woff') format('woff');
+  unicode-range: U+204F, U+2E41;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../font/jawicomma/jawicomma.woff') format('woff');
+  unicode-range: U+204F, U+2E41;
+}

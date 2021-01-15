@@ -1,0 +1,17 @@
+/*
+ * === Fonts for Beringin Malay (ms-Brgn) ===
+ * Only one font is available, use it at all times.
+ * Font: MNH48 Beringin PUA
+ * This file is written by Yaya MNH48 and licensed under MIT
+ *
+ */
+
+@font-face {
+  font-family: 'MNH48 Beringin PUA';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../font/mnh48beringinpua/mnh48beringinpua.woff') format('woff'), url('../font/mnh48beringinpua/mnh48beringinpua.svg') format('svg');
+  unicode-range: U+EBA0-EBFF;
+}
+ 

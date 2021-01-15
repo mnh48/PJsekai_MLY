@@ -1,0 +1,14 @@
+/*
+ * === Fonts for Beringin Malay (ms-Brgn) ===
+ * Only one font is available, use it at all times.
+ * Font: MNH48 Beringin PUA
+ * This file is written by Yaya MNH48 and licensed under MIT
+ *
+ */
+
+@font-face {
+  font-family: 'Twemoji';
+  font-display: swap;
+  src:  url('https://xem.github.io/emoji/twemoji.ttf'),
+        url('https://xem.github.io/emoji/twemoji.woff') format('woff');
+}

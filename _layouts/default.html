@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "ms" }}"{% if page.lang == "ms-Arab" or page.lang == "ms-Brgn" %} dir="rtl"{% endif %}>
+{% include head.html %}
+<body itemscope itemtype="https://schema.org/WebPage">
+<div id="loadingscn"></div>
+<main lang="{{ page.lang | default: "ms" }}">
+{% include header.html %}
+<!--[if lt IE 3]> start of page content <![endif]-->
+{{ content }}
+<!--[if lt IE 3]> end of page content <![endif]-->
+{% include footer.html %}
+</main>
+</body>
+<!--[if lt IE 3]>
+   Jekyll Template by Yaya MNH48.
+   __  __                            __  ___  _   __  __  __  __ __    ____ 
+   \ \/ / ____ _  __  __  ____ _    /  |/  / / | / / / / / / / // /   ( __ )
+    \  / / __ `/ / / / / / __ `/   / /|_/ / /  |/ / / /_/ / / // /_  / __  |
+    / / / /_/ / / /_/ / / /_/ /   / /  / / / /|  / / __  / /__  __/ / /_/ / 
+   /_/  \__,_/  \__, /  \__,_/   /_/  /_/ /_/ |_/ /_/ /_/    /_/    \____/  
+               /____/                                                       
+<![endif]-->
+</html>

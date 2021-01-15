@@ -1,0 +1,16 @@
+<!--[if lt IE 3]> start of _includes/footer.html <![endif]-->
+{% capture pagelang %}{{ page.lang | default: "ms"}}{% endcapture -%}
+{% assign ftdt = site.data.html.footer[pagelang] -%}
+{% if pagelang == "ms" %}{% assign slashname = "" %}{% else %}{% assign slashname = pagelang | prepend: "_" %}{% endif -%}
+<footer lang="{{ pagelang }}">
+    <div class="btn-group button">
+        <a id="footer-homepage" class="button" lang="{{ pagelang }}" href="/index{{ slashname }}.html">{{ ftdt.homepage }}</a>
+        <a id="footer-faq" class="button" lang="{{ pagelang }}" href="/community{{ slashname }}.html">{{ ftdt.community }}</a>
+        <a id="footer-resource" class="button" lang="{{ pagelang }}" href="/resource{{ slashname }}.html">{{ ftdt.resource }}</a>
+        <a id="footer-disclaimer" class="button" lang="{{ pagelang }}" href="/disclaimer{{ slashname }}.html">{{ ftdt.disclaimer }}</a>
+    </div>
+    <br/>
+    <p id="footer-generate" class="footer" lang="{{ pagelang }}">&copy; PJsekai_MLY 2020 - {{ "now" | date: "%Y" }}. {{ ftdt.imagecp }} [&copy; SEGA / &copy; Craft Egg Inc. Developed by Colorful Palette / &copy; Crypton Future Media, INC. www. piapro.net {{ ftdt.rightres }}] {{ ftdt.generate }} <a href="https://github.com/mnh48/PJsekai_MLY/tree/main{{ page.url | replace: ".html", ".md" }}">{{ ftdt.gitrepo }}</a> {{ ftdt.wordon }} {{ "now" | date: "%Y-%m-%d %H:%M" }} (UTC+08)</p>
+{% if page.needbtt %}<a href="#toplogo" class="backtotop">↑</a>{% endif -%}
+</footer>
+<!--[if lt IE 3]> end of _includes/footer.html <![endif]-->

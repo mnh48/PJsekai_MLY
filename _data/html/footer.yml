@@ -1,0 +1,99 @@
+en:
+  domain: en
+  homepage: Home
+  community: Community
+  resource: Resource
+  disclaimer: Disclaimer
+  imagecp: Copyright of images used
+  rightres: All rights reserved.
+  generate: Website last generated from
+  gitrepo: GitHub repo
+  wordon: "on"
+ms:
+  domain: ms
+  homepage: Laman Utama
+  community: Komuniti
+  resource: Sumber
+  disclaimer: Penafian
+  imagecp: Hak cipta imej digunakan
+  rightres: Hak cipta terpelihara.
+  generate: Laman sesawang dijana kali terakhir dari 
+  gitrepo: repo GitHub
+  wordon: pada
+ms-Arab:
+  domain: jawi
+  homepage: لامن اوتام
+  community: کومونيتي
+  resource: سومبر
+  disclaimer: ڤنافين
+  imagecp: حق چيڤتا ايميج دݢوناکن
+  rightres: حق چيڤتا ترڤليهارا.
+  generate: لامن سساوڠ دجان کالي تراخير دري
+  gitrepo: ريڤو GitHub
+  wordon: ڤد
+ms-Rjng:
+  domain: rjng
+  homepage: ꤾꤸꥐ ꥆꥈꤳꤸ
+  community: ꤰꥋꤸꥋꤵꥇꤳꥇ
+  resource: ꤼꥈꤸ꥓ꤷꥍꥑ
+  disclaimer: ꤶꥍꤵꤲꥇꥆꥐ
+  imagecp: ꥁꤰ꥓ ꤹꥇꤶ꥓ꤳ ꤴꥇꤱꥈꤵꤰꥐ
+  rightres: ꥁꤰ꥓ ꤹꥇꤶ꥓ꤳ ꤳꥍꥑꤶꥍꤾꥇꥁꤽ.
+  generate: ꤾꤸꥐ ꤼꥍꤼꥀꥏ ꤴꥇꤺꤵ ꤰꤾꥇ ꤳꥍꥑꥆꤰ꥓ꥁꥇꥑ ꤴꤽꥇ
+  gitrepo: ꤽꥉꤶꥋ ꤱꥇꤳ꥓ꥁꥈꤷ꥓
+  wordon: ꤶꤴ
+ms-Brgn:
+  domain: brgn
+  homepage:  
+  community: 
+  resource: 
+  disclaimer: 
+  imagecp:    
+  rightres:   
+  generate:      
+  gitrepo:  GitHub
+  wordon: 
+ja:
+  domain: jpn
+  homepage: ホームページ
+  community: コミュニティ
+  resource: リソース
+  disclaimer: 免責事項
+  imagecp: 画像は著作権で保護されています
+  rightres: 全著作権所有。
+  generate: このウェブサイトは
+  gitrepo: GitHubのリポジトリーから
+  wordon: この年月日に生成された：
+zh-Hans:
+  domain: chn
+  homepage: 首页
+  community: 社区
+  resource: 资源
+  disclaimer: 免责声明
+  imagecp: 图片受版权保护
+  rightres: 版权所有。
+  generate: 此网站是由
+  gitrepo: GitHub仓库
+  wordon: 在此日期生成的：
+zh-Hant:
+  domain: twn
+  homepage: 首頁
+  community: 社區
+  resource: 資源
+  disclaimer: 免責聲明
+  imagecp: 圖片受版權保護
+  rightres: 版權所有。
+  generate: 此網站是由
+  gitrepo: GitHub倉庫
+  wordon: 在此日期生成的：
+mul:
+  domain: www
+  homepage: Home
+  community: Community
+  resource: Resource
+  disclaimer: Disclaimer
+  imagecp: Copyright of images used
+  rightres: All rights reserved.
+  generate: Website last generated from
+  gitrepo: GitHub repo
+  wordon: "on"

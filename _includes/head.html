@@ -1,0 +1,91 @@
+<!--[if lt IE 3]> start of _includes/head.html  <![endif]-->
+{% capture pagelang %}{{ page.lang | default: "ms"}}{% endcapture -%}
+{% assign hddt = site.data.html.header[pagelang] -%}
+{% if page.title -%}
+    {% if page.title == hddt.webtitle -%}
+        {%- assign headtitle = page.title -%}
+    {% else -%}
+        {% capture headtitle -%}
+        {{ page.title }} - {{ hddt.webtitle | default: "Project Sekai Melayu" -}}
+        {% endcapture -%}
+    {% endif -%}
+{% else -%}
+    {% capture headtitle -%}
+    {{ hddt.webtitle | default: "Project Sekai Melayu" }}
+    {% endcapture -%}
+{% endif -%}
+{% if page.description -%}
+    {% assign headdesc = page.description -%}
+{% else -%}
+    {% assign headdesc = hddt.pagetitle -%}
+{% endif -%}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#989cb8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#989cb8">
+    <meta name="msapplication-navbutton-color" content="#989cb8">
+    <meta name="title" content="{{ headtitle | escape }}">
+    <meta name="description" content="{{ headdesc | escape }}">
+    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif -%}
+    {% if page.date %}<meta name="dcterms.created" content="{{ page.date }}">{% endif -%}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@PJsekai_MLY">
+    <meta name="twitter:url" content="https://pjsekai.mnh48.moe{{ page.url }}">
+    <meta name="twitter:title" content="{{ headtitle | escape }}">
+    <meta name="twitter:description" content="{{ headdesc | escape }}">
+    <meta name="twitter:image" content="{{ page.thumbnail | default: "/assets/img/icon-164.png" }}">
+    <meta property="og:locale" content="{{ pagelang }}">
+    <meta property="og:title" content="{{ headtitle | escape }}">
+    <meta property="og:description" content="{{ headdesc | escape }}">
+    <meta property="og:site_name" content="{{ hddt.webtitle | escape }}">
+    <meta property="og:image" content="/assets/img/icon-500.png" />
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-180.png">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icon-16.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128.png">
+    <link rel="icon" type="image/png" sizes="164x164" href="/assets/img/icon-164.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!--[if lt IE 9]> <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script> <![endif]-->
+    <!--[if lt IE 9]> <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script> <![endif]-->
+    <link rel="stylesheet" href="/assets/css/font-latn.css">
+    <link rel="stylesheet" href="/assets/css/font-arab.css">
+    <link rel="stylesheet" href="/assets/css/font-brgn.css">
+    <link rel="stylesheet" href="/assets/css/font-rjng.css">
+    <link rel="stylesheet" href="/assets/css/font-jpns.css">
+    <link rel="stylesheet" href="/assets/css/font-hans.css">
+    <link rel="stylesheet" href="/assets/css/font-hant.css">
+    <link rel="stylesheet" href="/assets/css/font-emoji.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    {% if pagelang == "ms-Brgn" %}<link rel="stylesheet" href="/assets/css/brgn.css">{% endif -%}
+    <script type="application/ld+json">
+    {
+        "@type":"WebSite",
+        "url":"https://pjsekai.mnh48.moe{{ page.url }}",
+        "headline":"{{ headtitle | escape }}",
+        "name":"{{ hddt.webtitle | escape }}",
+        "description":"{{ headdesc | escape }}",
+        "@context":"https://schema.org"
+    }
+    </script>
+    <script> 
+    document.onreadystatechange = function() {
+        if (document.readyState !== "complete") {
+            document.querySelector("body").style.visibility = "hidden";
+            document.querySelector("#loadingscn").style.visibility = "visible";
+        } else {
+            document.querySelector("#loadingscn").style.display = "none";
+            document.querySelector("body").style.visibility = "visible";
+        }
+    };
+    </script>
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <title>{{ headtitle }}</title>
+</head>
+<!--[if lt IE 3]> end of _includes/head.html  <![endif]-->
