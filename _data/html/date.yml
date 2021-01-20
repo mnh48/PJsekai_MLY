@@ -57,13 +57,13 @@ ms-Arab:
     11: نوۏيمبر
     12: ديسيمبر
   weekday:
-    0: Ahad
-    1: Isnin
-    2: Selasa
-    3: Rabu
-    4: Khamis
-    5: Jumaat
-    6: Sabtu
+    0: احد
+    1: اثنين
+    2: ثلاث
+    3: رابو
+    4: خميس
+    5: جمعة
+    6: سبت
 ms-Rjng:
   month:
     01: ꤺꤵꥈꥆꤽꥇ
